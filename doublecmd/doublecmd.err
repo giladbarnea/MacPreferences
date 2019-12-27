@@ -1,0 +1,23 @@
+--------------- 25-12-2019, 13:09:19 ---------------
+| DC v0.9.6 beta Rev. 9018 -- x86_64-Darwin-cocoa
+| Mac OS X 10.15.2 | PID 510
+Unhandled exception: Exception: Source bitmap too small
+  Stack trace:
+  $00000001090D4FC3 line 371, column 6 of uresample.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $0000000108CDB85C line 403, column 9 of platform/upixmapmanager.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $0000000108E69DCA line 644, column 7 of include/customedit.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $0000000108DF1BC5 line 1202, column 3 of include/control.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $0000000108C5F4C3 in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $0000000108DE7F76 line 5412, column 28 of include/wincontrol.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $0000000108E698AF line 528, column 30 of include/customedit.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $0000000108DD73B0 line 112, column 36 of lclmessageglue.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $0000000108DD74BB line 143, column 13 of lclmessageglue.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $0000000108DD595A line 1249, column 27 of cocoa/cocoawscommon.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $0000000108E89A15 line 2217, column 5 of cocoa/cocoawsstdctrls.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $0000000108E865C5 line 1129, column 56 of cocoa/cocoawsstdctrls.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $0000000108DE7FA7 line 5417, column 22 of include/wincontrol.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $0000000108DEE00B line 8339, column 5 of include/wincontrol.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $0000000108E69AB4 line 569, column 3 of include/customedit.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $0000000108DFA656 line 5055, column 5 of include/control.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $0000000109122781 line 823, column 49 of frames/foptionsfileassoc.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+

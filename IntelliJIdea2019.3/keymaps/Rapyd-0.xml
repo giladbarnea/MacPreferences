@@ -1,0 +1,23 @@
+<keymap version="1" name="Rapyd-0" parent="Mac OS X 10.5+">
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="shift ctrl meta c" />
+  </action>
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="Console.TableResult.Reload" />
+  <action id="DatabaseView.Refresh" />
+  <action id="Refresh" />
+  <action id="Replace" />
+  <action id="ReplaceInPath" />
+  <action id="Rerun" />
+  <action id="ShowProjectStructureSettings" />
+  <action id="ShowSettings" />
+  <action id="Vcs.Log.Refresh" />
+  <action id="WelcomeScreen.Settings">
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
+</keymap>
