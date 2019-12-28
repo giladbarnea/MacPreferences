@@ -264,6 +264,8 @@
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
   <action id="GotoTest" />
+  <action id="Graph.ZoomIn" />
+  <action id="Graph.ZoomOut" />
   <action id="HideActiveWindow" />
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="ctrl b" />

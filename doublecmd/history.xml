@@ -2,13 +2,36 @@
 <doublecmd>
   <History>
     <Navigation>
+      <Item>/Users/gilad/Desktop/Overrides/DisplayVendorID-4c2d/</Item>
+      <Item>/Users/gilad/Desktop/Overrides/</Item>
+      <Item>/System/Applications/</Item>
+      <Item>/Users/gilad/Applications/</Item>
+      <Item>/Users/gilad/Desktop/</Item>
+      <Item>/Users/gilad/Downloads/</Item>
+      <Item>/System/Library/Preferences/</Item>
+      <Item>/Users/gilad/.local/</Item>
+      <Item>/System/Library/Displays/Contents/Resources/Overrides/DisplayVendorID-4c2d/</Item>
+      <Item>/System/Library/Displays/Contents/Resources/Overrides/</Item>
+      <Item>/System/Library/Displays/Contents/Resources/</Item>
+      <Item>/Users/gilad/DisplayVendorID-4c2d/</Item>
+      <Item>/Users/gilad/</Item>
+      <Item>/System/Library/Displays/Contents/</Item>
+      <Item>/System/Library/Displays/</Item>
+      <Item>/System/Library/</Item>
+      <Item>/System/</Item>
+      <Item>/Users/gilad/Downloads/DisplayVendorID-10ac/</Item>
+      <Item>/Users/gilad/Library/</Item>
+      <Item>/Users/gilad/Library/Preferences/</Item>
+      <Item>/Users/gilad/Library/Keyboard/</Item>
+      <Item>/Users/gilad/Library/Keyboard/en-dynamic.lm/</Item>
+      <Item>/Users/gilad/Library/Keychains/</Item>
+      <Item>/Users/gilad/Library/Keychains/8243D82C-8FC4-5A6B-A06C-B89F2FF8D4FE/</Item>
+      <Item>/Users/gilad/Library/Preferences/IntelliJIdea2019.3/</Item>
+      <Item>/Users/gilad/Library/Preferences/IntelliJIdea2019.3/codestyles/</Item>
+      <Item>/Users/gilad/Code/scratches/pycharm-settings/codestyles/</Item>
       <Item>/Users/gilad/Code/scratches/pycharm-settings/</Item>
       <Item>/Users/gilad/Code/scratches/</Item>
       <Item>/Users/gilad/Library/Preferences/IntelliJIdea2019.3/options/</Item>
-      <Item>/Users/gilad/Library/Preferences/IntelliJIdea2019.3/</Item>
-      <Item>/Users/gilad/Library/Preferences/</Item>
-      <Item>/Users/gilad/Library/</Item>
-      <Item>/Users/gilad/</Item>
       <Item>/Users/gilad/Code/rapyd/reconciliation_engine/</Item>
       <Item>/Users/gilad/Code/rapyd/</Item>
       <Item>/Users/gilad/Code/rapyd/reconciliation_configuration/</Item>
@@ -27,26 +50,11 @@
       <Item>/Users/gilad/Code/rapyd/reconciliation_engine/reconciliation/</Item>
       <Item>/Users/gilad/Documents/</Item>
       <Item>/Users/gilad/Code/pyano-2.0/</Item>
-      <Item>/Users/gilad/Downloads/</Item>
       <Item>/Users/gilad/Applications/JetBrains Toolbox/</Item>
-      <Item>/Users/gilad/Applications/</Item>
       <Item>/Users/gilad/Library/Preferences/IntelliJIdea2019.3/keymaps/</Item>
-      <Item>/Users/gilad/Library/Preferences/PyCharm2019.3/</Item>
-      <Item>/Users/gilad/Library/Preferences/PyCharm2019.3/settingsRepository/</Item>
-      <Item>/Users/gilad/Library/Preferences/PyCharm2019.3/settingsRepository/pycharm-settings.7726dc3b.git/</Item>
-      <Item>/Users/gilad/Code/scratches/pycharm-settings/_mac/</Item>
-      <Item>/Users/gilad/Library/Preferences/PyCharm2019.3/settingsRepository/repository/</Item>
-      <Item>/Users/gilad/Library/Preferences/PyCharm2019.3/settingsRepository/repository/keymaps/</Item>
-      <Item>/Users/gilad/Library/Preferences/PyCharm2019.3/settingsRepository/repository/inspection/</Item>
-      <Item>/Users/gilad/Library/Preferences/PyCharm2019.3/options/</Item>
-      <Item>/Users/</Item>
-      <Item>/Users/gilad/Downloads/doublecmdcfg/</Item>
-      <Item>/Users/gilad/Library/Preferences/doublecmd/</Item>
-      <Item>/home/</Item>
-      <Item>/private/var/folders/vr/bbs031pd3tl7flqwd_t1ydwm0000gn/</Item>
-      <Item>/private/var/folders/vr/bbs031pd3tl7flqwd_t1ydwm0000gn/T/</Item>
     </Navigation>
     <CommandLine>
+      <Item>code .</Item>
       <Item>code idea.key</Item>
       <Item>cd ~/Downloads</Item>
       <Item>cd /Users/gilad/Library/Preferences/doublecmd</Item>

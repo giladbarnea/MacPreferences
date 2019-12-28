@@ -32,7 +32,7 @@
     <property name="ExpandBeforeRunStepsPanel" value="true" />
     <property name="ExpandRunDashboardTypesPanel" value="false" />
     <property name="InstalledPluginsSearchHistory" value="scroll from&#10;interp&#10;interpreter int&#10;/enabled" />
-    <property name="KEYMAP" value="match case&#10;copy&#10;splitter&#10;collapse&#10;block comment" />
+    <property name="KEYMAP" value="zoom&#10;match case&#10;copy&#10;splitter&#10;collapse" />
     <property name="MarketplacePluginsSearchHistory" value="interp&#10;tabswitch&#10;tabmover&#10;tab&#10;tabdir" />
     <property name="PluginConfigurable.selectionTab" value="1" />
     <property name="ProjectStructure.TopLevelElements" value="0.37875" />
@@ -45,7 +45,7 @@
     <property name="installed.kotlin.plugin.version" value="1.3.61-release-IJ2019.3-1" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="kotlin.plugin.releaseDate" value="1.3.61-release-IJ2019.3-1:2019-11-26" />
-    <property name="lastTip" value="18" />
+    <property name="lastTip" value="30" />
     <property name="project.wizard.group" value="EMPTY_MODULE" />
     <property name="project.wizard.template" value="Empty Project" />
   </component>
