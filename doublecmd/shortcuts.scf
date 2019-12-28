@@ -107,7 +107,7 @@
         <Command>cm_ShellExecute</Command>
       </Hotkey>
       <Hotkey>
-        <Shortcut>Ctrl+Shift+C</Shortcut>
+        <Shortcut>Shift+WinKey+C</Shortcut>
         <Command>cm_CopyFullNamesToClip</Command>
       </Hotkey>
       <Hotkey>
@@ -284,10 +284,6 @@
         <Command>cm_PasteFromClipboard</Command>
       </Hotkey>
       <Hotkey>
-        <Shortcut>WinKey+C</Shortcut>
-        <Command>cm_CopyToClipboard</Command>
-      </Hotkey>
-      <Hotkey>
         <Shortcut>WinKey+X</Shortcut>
         <Command>cm_CutToClipboard</Command>
       </Hotkey>
@@ -335,11 +331,6 @@
       <Hotkey>
         <Shortcut>Num*</Shortcut>
         <Command>cm_MarkInvert</Command>
-        <Control>Files Panel</Control>
-      </Hotkey>
-      <Hotkey>
-        <Shortcut>Ctrl+C</Shortcut>
-        <Command>cm_CopyToClipboard</Command>
         <Control>Files Panel</Control>
       </Hotkey>
       <Hotkey>
@@ -416,6 +407,12 @@
         <Shortcut>WinKey+BkSp</Shortcut>
         <Command>cm_Delete</Command>
         <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>WinKey+C</Shortcut>
+        <Command>cm_CopyToClipboard</Command>
+        <Control>Files Panel</Control>
+        <Control>Command Line</Control>
       </Hotkey>
     </Form>
     <Form Name="Viewer">
