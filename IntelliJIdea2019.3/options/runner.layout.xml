@@ -33,9 +33,9 @@
         <option name="tabIndex" value="1" />
       </ViewImpl>
       <TabImpl>
-        <option name="bottomProportion" value="0.773083" />
+        <option name="bottomProportion" value="0.53036785" />
         <option name="displayName" value="Debugger" />
-        <option name="leftProportion" value="0.26772195" />
+        <option name="leftProportion" value="0.35902926" />
         <option name="rightProportion" value="0.5214399" />
       </TabImpl>
       <TabImpl>
@@ -43,11 +43,6 @@
         <option name="defaultIndex" value="3" />
         <option name="displayName" value="Elements" />
         <option name="index" value="1" />
-      </TabImpl>
-      <TabImpl>
-        <option name="bottomProportion" value="0.0" />
-        <option name="defaultIndex" value="3" />
-        <option name="index" value="2" />
       </TabImpl>
       <General>
         <option name="focusOnCondition">

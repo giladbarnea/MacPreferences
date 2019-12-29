@@ -108,6 +108,9 @@
     <keyboard-shortcut first-keystroke="ctrl f5" />
   </action>
   <action id="Debugger.EditTypeSource" />
+  <action id="Debugger.StepOutOfBlock">
+    <keyboard-shortcut first-keystroke="alt f3" />
+  </action>
   <action id="DecrementWindowHeight" />
   <action id="Diff.ApplyLeftSide" />
   <action id="Diff.ApplyRightSide" />
@@ -459,8 +462,6 @@
     <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="StepOut">
-    <keyboard-shortcut first-keystroke="shift f11" />
-    <keyboard-shortcut first-keystroke="shift ctrl f8" />
     <keyboard-shortcut first-keystroke="meta f3" />
   </action>
   <action id="StepOver">
@@ -619,8 +620,11 @@
   <action id="editRunConfigurations">
     <keyboard-shortcut first-keystroke="shift ctrl meta f5" />
   </action>
+  <action id="emacsIDEAs.AceJump">
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
   <action id="emacsIDEAs.AceJumpSelect">
-    <keyboard-shortcut first-keystroke="shift meta m" />
+    <keyboard-shortcut first-keystroke="shift alt h" />
   </action>
   <action id="emacsIDEAs.JustOneSpace" />
   <action id="hg4idea.QRefresh" />
