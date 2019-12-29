@@ -31,21 +31,34 @@
             <RecentProjectMetaInfo projectWorkspaceId="1VWPWqGAPPxpwxhSFah7FlJCJDa">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IU-193.5662.53" />
-              <option name="buildTimestamp" value="1576645784810" />
+              <option name="buildTimestamp" value="1576645745328" />
+              <frame x="108" y="52" width="2320" height="1311" extendedState="6" />
               <option name="productionCode" value="IU" />
-              <option name="projectOpenTimestamp" value="1577367709610" />
+              <option name="projectOpenTimestamp" value="1577627290066" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/rapyd/reconciliation-testing-tools">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1Vf1TMFzsEmCHSpzSfdAOatyYrn">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645745328" />
+              <frame x="0" y="173" width="1440" height="877" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1577645348183" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
         <entry key="$USER_HOME$/Code/rapyd/reconciliation_engine">
           <value>
-            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1VWEbOlEHkObIp82L6xv2kGCvp6">
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1Veqxurl6nmvSsvqgvQ5v0jvi3p">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IU-193.5662.53" />
-              <option name="buildTimestamp" value="1576645788435" />
-              <frame x="0" y="23" width="1716" height="1174" />
+              <option name="buildTimestamp" value="1576645762508" />
+              <frame x="0" y="54" width="1631" height="996" extendedState="6" />
               <option name="productionCode" value="IU" />
-              <option name="projectOpenTimestamp" value="1577542551552" />
+              <option name="projectOpenTimestamp" value="1577645366639" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -55,6 +68,7 @@
     <option name="recentPaths">
       <list>
         <option value="$USER_HOME$/Code/rapyd/reconciliation_engine" />
+        <option value="$USER_HOME$/Code/rapyd/reconciliation-testing-tools" />
         <option value="$USER_HOME$/Code/bashscripts/mytool" />
         <option value="$USER_HOME$/Code/pyano-2.0" />
         <option value="$USER_HOME$/Code/scratches/intellij-hello-world" />

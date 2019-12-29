@@ -1,5 +1,4 @@
 AngularJS
-AngularJS
 AntSupport
 ByteCodeViewer
 CFML Support
@@ -98,6 +97,7 @@ cucumber-groovy
 cucumber-java
 gherkin
 hg4idea
+me.ihxq.acejump.lite
 org.coffeescript
 org.editorconfig.editorconfigjetbrains
 org.intellij.grails

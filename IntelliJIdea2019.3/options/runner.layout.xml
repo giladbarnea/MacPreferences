@@ -20,12 +20,12 @@
       </ViewImpl>
       <ViewImpl>
         <option name="ID" value="ConsoleContent" />
-        <option name="placeInGrid" value="right" />
+        <option name="placeInGrid" value="bottom" />
       </ViewImpl>
       <TabImpl>
         <option name="displayName" value="Debugger" />
-        <option name="leftProportion" value="0.04400284" />
-        <option name="rightProportion" value="0.7217885" />
+        <option name="leftProportion" value="0.2335821" />
+        <option name="rightProportion" value="0.5636475" />
       </TabImpl>
     </runner>
   </component>
