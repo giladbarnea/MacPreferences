@@ -1,0 +1,64 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Code/scratches/intellij-hello-world">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1VT8DVnMq9zwYg3dwAtOzE38v6q">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645781647" />
+              <frame x="-1226" y="-1129" width="1400" height="837" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1577273266315" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/pyano-2.0">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1VRPwCbSCXzuB4AfQ0E1bjT1OIL">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645774252" />
+              <frame x="-1226" y="-1129" width="1400" height="837" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1577286279077" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/bashscripts/mytool">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1VWPWqGAPPxpwxhSFah7FlJCJDa">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645784810" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1577367709610" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Code/rapyd/reconciliation_engine">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1VWEbOlEHkObIp82L6xv2kGCvp6">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-193.5662.53" />
+              <option name="buildTimestamp" value="1576645788435" />
+              <frame x="0" y="23" width="1716" height="1174" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1577542551552" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/Code/scratches" />
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Code/rapyd/reconciliation_engine" />
+        <option value="$USER_HOME$/Code/bashscripts/mytool" />
+        <option value="$USER_HOME$/Code/pyano-2.0" />
+        <option value="$USER_HOME$/Code/scratches/intellij-hello-world" />
+      </list>
+    </option>
+  </component>
+</application>

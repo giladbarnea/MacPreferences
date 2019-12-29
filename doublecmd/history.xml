@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doublecmd>
+  <History>
+    <Navigation>
+      <Item>/Users/gilad/Downloads/intellij-config/config/</Item>
+      <Item>/Users/gilad/Downloads/intellij-config/</Item>
+      <Item>/Users/gilad/Downloads/intellij-config/keymaps/</Item>
+      <Item>/Users/gilad/Downloads/</Item>
+      <Item>/Users/gilad/Library/Preferences/IntelliJIdea2019.3/</Item>
+      <Item>/Users/gilad/Library/Preferences/IntelliJIdea2019.3/settingsRepository/</Item>
+      <Item>/Users/gilad/Library/Preferences/</Item>
+      <Item>/Users/gilad/Library/</Item>
+      <Item>/Users/gilad/</Item>
+      <Item>/Users/gilad/Code/scratches/pycharm-settings/</Item>
+      <Item>/Users/gilad/Desktop/Overrides/DisplayVendorID-4c2d/</Item>
+      <Item>/Users/gilad/Desktop/Overrides/</Item>
+      <Item>/System/Applications/</Item>
+      <Item>/Users/gilad/Applications/</Item>
+      <Item>/Users/gilad/Desktop/</Item>
+      <Item>/System/Library/Preferences/</Item>
+      <Item>/Users/gilad/.local/</Item>
+      <Item>/System/Library/Displays/Contents/Resources/Overrides/DisplayVendorID-4c2d/</Item>
+      <Item>/System/Library/Displays/Contents/Resources/Overrides/</Item>
+      <Item>/System/Library/Displays/Contents/Resources/</Item>
+      <Item>/Users/gilad/DisplayVendorID-4c2d/</Item>
+      <Item>/System/Library/Displays/Contents/</Item>
+      <Item>/System/Library/Displays/</Item>
+      <Item>/System/Library/</Item>
+      <Item>/System/</Item>
+      <Item>/Users/gilad/Downloads/DisplayVendorID-10ac/</Item>
+      <Item>/Users/gilad/Library/Keyboard/</Item>
+      <Item>/Users/gilad/Library/Keyboard/en-dynamic.lm/</Item>
+      <Item>/Users/gilad/Library/Keychains/</Item>
+      <Item>/Users/gilad/Library/Keychains/8243D82C-8FC4-5A6B-A06C-B89F2FF8D4FE/</Item>
+      <Item>/Users/gilad/Library/Preferences/IntelliJIdea2019.3/codestyles/</Item>
+      <Item>/Users/gilad/Code/scratches/pycharm-settings/codestyles/</Item>
+      <Item>/Users/gilad/Code/scratches/</Item>
+      <Item>/Users/gilad/Library/Preferences/IntelliJIdea2019.3/options/</Item>
+      <Item>/Users/gilad/Code/rapyd/reconciliation_engine/</Item>
+      <Item>/Users/gilad/Code/rapyd/</Item>
+      <Item>/Users/gilad/Code/rapyd/reconciliation_configuration/</Item>
+      <Item>/Users/gilad/Code/bashscripts/mytool/</Item>
+      <Item>/Users/gilad/Code/bashscripts/mytool/mytool/</Item>
+      <Item>/Users/gilad/Code/bashscripts/mytool/mytool/myman/</Item>
+      <Item>/Users/gilad/Code/bashscripts/</Item>
+      <Item>/Users/gilad/Code/</Item>
+      <Item>/Users/gilad/.ssh/</Item>
+      <Item>/Library/Frameworks/Python.framework/Versions/3.8/</Item>
+      <Item>/Library/Frameworks/Python.framework/Versions/</Item>
+      <Item>/Library/Frameworks/Python.framework/Versions/3.7/</Item>
+      <Item>/Library/Frameworks/Python.framework/Versions/3.7/bin/</Item>
+      <Item>/Users/gilad/Code/rapyd/reconciliation_engine/env/</Item>
+      <Item>/Users/gilad/Code/rapyd/reconciliation_engine/src/</Item>
+      <Item>/Users/gilad/Code/rapyd/reconciliation_engine/reconciliation/</Item>
+      <Item>/Users/gilad/Documents/</Item>
+    </Navigation>
+    <CommandLine>
+      <Item>code .</Item>
+      <Item>code idea.key</Item>
+      <Item>cd ~/Downloads</Item>
+      <Item>cd /Users/gilad/Library/Preferences/doublecmd</Item>
+      <Item>cd /home/gilad</Item>
+      <Item>cd /home</Item>
+    </CommandLine>
+    <FileMask>
+      <Item>*</Item>
+      <Item>*.*</Item>
+    </FileMask>
+    <SearchText/>
+    <SearchTextPath/>
+    <ReplaceText/>
+    <ReplaceTextPath/>
+    <SearchDirectories/>
+    <SearchExcludeFiles/>
+    <SearchExcludeDirectories/>
+  </History>
+</doublecmd>
