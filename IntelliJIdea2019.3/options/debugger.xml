@@ -79,7 +79,35 @@
     </filter>
   </component>
   <component name="XDebuggerSettings">
-    <data-views />
-    <general />
+    <data-views>
+      <sort-values>true</sort-values>
+      <option name="valueLookupDelay" value="100" />
+    </data-views>
+    <general>
+      <scroll-to-center>true</scroll-to-center>
+    </general>
+    <debuggers>
+      <debugger id="oracle">
+        <configuration>
+          <option name="steppingPauseAtBegin" value="true" />
+        </configuration>
+      </debugger>
+      <debugger id="python">
+        <configuration>
+          <option name="simplifiedView" value="false" />
+          <option name="steppingFilters">
+            <list>
+              <PySteppingFilter>
+                <option name="filter" value="**env**" />
+              </PySteppingFilter>
+              <PySteppingFilter>
+                <option name="filter" value="*birdseye*" />
+              </PySteppingFilter>
+            </list>
+          </option>
+          <option name="watchReturnValues" value="true" />
+        </configuration>
+      </debugger>
+    </debuggers>
   </component>
 </application>

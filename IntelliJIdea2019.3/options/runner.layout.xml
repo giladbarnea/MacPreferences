@@ -1,14 +1,5 @@
 <application>
   <component name="RunnerLayoutSettings">
-    <runner id="JavaRunner">
-      <ViewImpl>
-        <option name="ID" value="ConsoleContent" />
-        <option name="placeInGrid" value="bottom" />
-      </ViewImpl>
-      <TabImpl>
-        <option name="bottomProportion" value="0.0" />
-      </TabImpl>
-    </runner>
     <runner id="Debug">
       <ViewImpl>
         <option name="ID" value="FrameContent" />
@@ -16,16 +7,64 @@
       </ViewImpl>
       <ViewImpl>
         <option name="ID" value="VariablesContent" />
-        <option name="placeInGrid" value="center" />
+        <option name="placeInGrid" value="bottom" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="WatchesContent" />
+        <option name="placeInGrid" value="bottom" />
       </ViewImpl>
       <ViewImpl>
         <option name="ID" value="ConsoleContent" />
-        <option name="placeInGrid" value="right" />
+        <option name="placeInGrid" value="left" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="wi.textView" />
+        <option name="placeInGrid" value="left" />
+        <option name="tabIndex" value="1" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="wi.structureView" />
+        <option name="placeInGrid" value="center" />
+        <option name="tabIndex" value="1" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="SCRIPTS_CONTENT" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="1" />
       </ViewImpl>
       <TabImpl>
+        <option name="bottomProportion" value="0.773083" />
         <option name="displayName" value="Debugger" />
-        <option name="leftProportion" value="0.04400284" />
-        <option name="rightProportion" value="0.7217885" />
+        <option name="leftProportion" value="0.26772195" />
+        <option name="rightProportion" value="0.5214399" />
+      </TabImpl>
+      <TabImpl>
+        <option name="bottomProportion" value="0.0" />
+        <option name="defaultIndex" value="3" />
+        <option name="displayName" value="Elements" />
+        <option name="index" value="1" />
+      </TabImpl>
+      <TabImpl>
+        <option name="bottomProportion" value="0.0" />
+        <option name="defaultIndex" value="3" />
+        <option name="index" value="2" />
+      </TabImpl>
+      <General>
+        <option name="focusOnCondition">
+          <map>
+            <entry key="breakpoint" value="ConsoleContent" />
+            <entry key="startup" value="ConsoleContent" />
+          </map>
+        </option>
+      </General>
+    </runner>
+    <runner id="JavaRunner">
+      <ViewImpl>
+        <option name="ID" value="ConsoleContent" />
+        <option name="placeInGrid" value="bottom" />
+      </ViewImpl>
+      <TabImpl>
+        <option name="bottomProportion" value="0.0" />
       </TabImpl>
     </runner>
   </component>

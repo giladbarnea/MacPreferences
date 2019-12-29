@@ -1,2 +1,6 @@
 *.plist
 IntelliJIdea2019.3/workspace
+com.apple.LaunchServices.QuarantineEventsV2
+doublecmd/history.xml
+doublecmd/session.ini
+IntelliJIdea2019.3/options/window.state.xml
