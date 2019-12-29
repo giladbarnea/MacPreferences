@@ -1,140 +1,22 @@
 <application>
-  <component name="CodeFoldingSettings">
-    <option name="COLLAPSE_DOC_COMMENTS" value="true" />
-    <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
-  </component>
-  <component name="CodeInsightSettings">
-    <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
-    <option name="PARAMETER_INFO_DELAY" value="0" />
-    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
-    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
-    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
-    <option name="SMART_BACKSPACE" value="2" />
-    <option name="REFORMAT_ON_PASTE" value="1" />
-    <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
-    <option name="HIGHLIGHT_SCOPE" value="true" />
-  </component>
-  <component name="DaemonCodeAnalyzerSettings">
-    <option name="AUTOREPARSE_DELAY" value="50" />
-    <option name="SHOW_METHOD_SEPARATORS" value="true" />
-  </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="18" />
+    <option name="FONT_SIZE" value="14" />
+    <option name="FONT_FAMILY" value="MesloLGS NF" />
+    <option name="SECONDARY_FONT_FAMILY" value="Courier New" />
   </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
-        <entry key="CSS" value="true" />
-        <entry key="DjangoTemplate" value="true" />
-        <entry key="ECMAScript 6" value="true" />
         <entry key="HTML" value="true" />
-        <entry key="JSON" value="false" />
-        <entry key="JavaScript" value="true" />
-        <entry key="Jinja2" value="true" />
+        <entry key="JAVA" value="true" />
+        <entry key="JSON" value="true" />
         <entry key="Python" value="true" />
-        <entry key="TypeScript" value="true" />
-        <entry key="XHTML" value="false" />
-        <entry key="XML" value="false" />
-        <entry key="yaml" value="false" />
+        <entry key="SQL" value="true" />
+        <entry key="XHTML" value="true" />
+        <entry key="XML" value="true" />
+        <entry key="yaml" value="true" />
       </map>
     </option>
-    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
-    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc; *.json" />
-    <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
-    <option name="CUSTOM_SOFT_WRAP_INDENT" value="2" />
-    <option name="STRIP_TRAILING_SPACES" value="Whole" />
-    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
-    <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="true" />
-    <option name="CARET_BLINKING_PERIOD" value="400" />
-    <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
-    <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
-    <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
-    <option name="IS_TRAILING_WHITESPACES_SHOWN" value="false" />
-    <option name="IS_ANIMATED_SCROLLING" value="false" />
-    <option name="IS_DND_ENABLED" value="false" />
-    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
-  <component name="PythonFoldingSettings">
-    <option name="COLLAPSE_LONG_STRINGS" value="true" />
-    <option name="COLLAPSE_SEQUENTIAL_COMMENTS" value="true" />
-  </component>
- <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
-    <pattern useCustomColors="true" case-sensitive="true" pattern="[ ]{1}GOOD.*$">
-      <option name="FOREGROUND" value="547854" />
-      <option name="FONT_TYPE" value="2" />
-    </pattern>
-    <pattern useCustomColors="true" case-sensitive="true" pattern="[ ]{1}BAD.*$">
-      <option name="FOREGROUND" value="943e3e" />
-      <option name="FONT_TYPE" value="2" />
-    </pattern>
-    <pattern useCustomColors="true" pattern="(?&lt;=\*  )[^\n]*$">
-      <option name="FOREGROUND" value="498aca" />
-      <option name="BACKGROUND" value="191919" />
-      <option name="FONT_TYPE" value="2" />
-    </pattern>
-    <pattern useCustomColors="true" pattern="(?&lt;=\*{2}  )[^\n]*$">
-      <option name="FOREGROUND" value="498aca" />
-      <option name="BACKGROUND" value="111111" />
-      <option name="FONT_TYPE" value="3" />
-      <option name="EFFECT_COLOR" value="498aca" />
-      <option name="EFFECT_TYPE" value="1" />
-    </pattern>
-    <pattern useCustomColors="true" pattern="(?&lt;=\*{3}  )[^\n]*$">
-      <option name="FOREGROUND" value="56a6f2" />
-      <option name="BACKGROUND" value="0" />
-      <option name="FONT_TYPE" value="3" />
-      <option name="EFFECT_COLOR" value="56a6f2" />
-      <option name="EFFECT_TYPE" value="4" />
-    </pattern>
-    <pattern useCustomColors="true" pattern="\s{1}fail\b$">
-      <option name="FOREGROUND" value="943e3e" />
-      <option name="FONT_TYPE" value="2" />
-    </pattern>
-    <pattern useCustomColors="true" pattern="\s{1}pass\b$">
-      <option name="FOREGROUND" value="547854" />
-      <option name="FONT_TYPE" value="2" />
-    </pattern>
-    <pattern useCustomColors="true" pattern="(?&lt;=///// )[^\n]*$">
-      <option name="FOREGROUND" value="afafaf" />
-      <option name="FONT_TYPE" value="3" />
-      <option name="EFFECT_COLOR" value="afafaf" />
-      <option name="EFFECT_TYPE" value="1" />
-    </pattern>
-    <pattern useCustomColors="true" pattern="(?&lt;=////)[^\n]*$">
-      <option name="FOREGROUND" value="9b9b9b" />
-      <option name="FONT_TYPE" value="3" />
-    </pattern>
-    <pattern useCustomColors="true" pattern="\s{1}error\b$">
-      <option name="FOREGROUND" value="943e3e" />
-      <option name="FONT_TYPE" value="2" />
-    </pattern>
-    <pattern useCustomColors="true" pattern="(?&lt;=! )[^\n]*$">
-      <option name="FOREGROUND" value="943e3e" />
-      <option name="FONT_TYPE" value="2" />
-    </pattern>
-    <pattern useCustomColors="true" pattern="(?&lt;=///)[^\n]*$">
-      <option name="FOREGROUND" value="9b9b9b" />
-      <option name="FONT_TYPE" value="2" />
-      <option name="EFFECT_TYPE" value="1" />
-    </pattern>
-    <pattern useCustomColors="true" pattern="(?&lt;=##)[^\n]*$">
-      <option name="FOREGROUND" value="9b9b9b" />
-      <option name="FONT_TYPE" value="2" />
-    </pattern>
-    <pattern useCustomColors="true" pattern="(?&lt;=###)[^\n]*$">
-      <option name="FOREGROUND" value="9b9b9b" />
-      <option name="FONT_TYPE" value="3" />
-    </pattern>
-    <pattern useCustomColors="true" pattern="(?&lt;=#### )[^\n]*$">
-      <option name="FOREGROUND" value="afafaf" />
-      <option name="FONT_TYPE" value="3" />
-      <option name="EFFECT_COLOR" value="afafaf" />
-      <option name="EFFECT_TYPE" value="1" />
-    </pattern>
-  </component>
-  <component name="XmlEditorOptions">
-    <option name="showCssInlineColorPreview" value="true" />
   </component>
 </application>
