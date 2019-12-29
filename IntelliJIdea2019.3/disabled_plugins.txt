@@ -93,6 +93,7 @@ com.jetbrains.plugins.asp
 com.jetbrains.plugins.webDeployment
 com.jetbrains.restClient
 com.jetbrains.restWebServices
+com.tobszarny.activetabhighlighter.plugin.id
 cucumber-groovy
 cucumber-java
 gherkin

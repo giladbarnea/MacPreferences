@@ -44,7 +44,7 @@
     <size key="GridCell.Tab.0.bottom.0.0.3360.2100@240dpi" width="2758" height="1652" />
   </component>
   <component name="WindowManager">
-    <frame x="0" y="54" width="1631" height="996" extendedState="6" />
+    <frame x="0" y="23" width="1644" height="1027" extendedState="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -65,7 +65,7 @@
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
     <state x="1915" y="1133" width="400" height="224" key="ProcessPopupWindow/0.23.2560.1337/2560.23.2560.1417" timestamp="1577360941351" />
-    <state x="840" y="471" key="WELCOME_SCREEN" timestamp="1577645355436">
+    <state x="840" y="471" key="WELCOME_SCREEN" timestamp="1577650368450">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="719" y="376" key="WELCOME_SCREEN/0.23.1440.797/208.-1129.2048.1129/-1840.-1129.2048.1129" timestamp="1577267743520" />
@@ -73,7 +73,7 @@
     <state x="719" y="403" key="WELCOME_SCREEN/0.23.1440.877/-1840.-1129.2048.1049/208.-1129.2048.1129" timestamp="1577266891338" />
     <state x="719" y="403" key="WELCOME_SCREEN/0.23.1440.877/-1840.-1417.2560.1337/720.-1417.2560.1417" timestamp="1577291366966" />
     <state x="719" y="403" key="WELCOME_SCREEN/0.23.1440.877/208.-1129.2048.1129/-1840.-1129.2048.1049" timestamp="1577273256602" />
-    <state x="840" y="471" key="WELCOME_SCREEN/0.23.1680.1027" timestamp="1577645355436" />
+    <state x="840" y="471" key="WELCOME_SCREEN/0.23.1680.1027" timestamp="1577650368450" />
     <state x="1279" y="556" key="WELCOME_SCREEN/0.23.2560.1337/2560.23.2560.1417" timestamp="1577357650953" />
     <state x="309" y="-847" key="new project wizard" timestamp="1577265603955">
       <screen x="208" y="-1129" width="2048" height="1129" />
