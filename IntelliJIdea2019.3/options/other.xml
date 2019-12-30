@@ -57,7 +57,7 @@
     <property name="ExpandRunDashboardTypesPanel" value="false" />
     <property name="FileTemplates.SelectedTemplate" value="HTML File" />
     <property name="InstalledPluginsSearchHistory" value="/disabled&#10;live coding&#10;lii&#10;li&#10;deep" />
-    <property name="KEYMAP" value="next me&#10;previous me&#10;select previous&#10;select next&#10;previous w" />
+    <property name="KEYMAP" value="move caret&#10;camelh&#10;next me&#10;previous me&#10;select previous" />
     <property name="MarketplacePluginsSearchHistory" value="live coding&#10;deep&#10;interp&#10;tabswitch&#10;tabmover" />
     <property name="ProjectStructure.TopLevelElements" value="0.1683434" />
     <property name="SettingsSearchHistory" value="keym&#10;rainb&#10;line numbers&#10;plugins&#10;rainbow" />
