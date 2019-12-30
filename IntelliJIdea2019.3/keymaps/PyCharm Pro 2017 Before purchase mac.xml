@@ -8,6 +8,9 @@
   <action id="$Paste">
     <keyboard-shortcut first-keystroke="meta v" />
   </action>
+  <action id="$Undo">
+    <keyboard-shortcut first-keystroke="meta z" />
+  </action>
   <action id="AceAction" />
   <action id="AceLineAction" />
   <action id="AceTargetAction" />
@@ -143,6 +146,9 @@
   </action>
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="meta v" />
+  </action>
+  <action id="Editor Undo">
+    <keyboard-shortcut first-keystroke="meta z" />
   </action>
   <action id="EditorAddRectangularSelectionOnMouseDrag" />
   <action id="EditorBackSpace">
@@ -433,7 +439,9 @@
   </action>
   <action id="RecentChanges" />
   <action id="RecentFiles" />
-  <action id="ReformatCode" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="Refresh" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl r" />
