@@ -52,13 +52,13 @@
         </entry>
         <entry key="$USER_HOME$/Code/rapyd/reconciliation_engine">
           <value>
-            <RecentProjectMetaInfo projectWorkspaceId="1Veqxurl6nmvSsvqgvQ5v0jvi3p">
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1Veqxurl6nmvSsvqgvQ5v0jvi3p">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IU-193.5662.53" />
-              <option name="buildTimestamp" value="1576645751637" />
-              <frame x="0" y="23" width="1644" height="1027" extendedState="6" />
+              <option name="buildTimestamp" value="1576645765143" />
+              <frame x="9" y="26" width="2542" height="1411" extendedState="6" />
               <option name="productionCode" value="IU" />
-              <option name="projectOpenTimestamp" value="1577647753339" />
+              <option name="projectOpenTimestamp" value="1577696127086" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

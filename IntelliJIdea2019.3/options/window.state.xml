@@ -44,7 +44,7 @@
     <size key="GridCell.Tab.0.bottom.0.0.3360.2100@240dpi" width="2758" height="1652" />
   </component>
   <component name="WindowManager">
-    <frame x="0" y="23" width="1644" height="1027" extendedState="6" />
+    <frame x="0" y="0" width="2560" height="1440" fullScreen="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info id="Structure" order="1" weight="0.25" />

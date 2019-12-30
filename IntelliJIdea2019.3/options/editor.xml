@@ -30,9 +30,11 @@
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="true" />
     <option name="CARET_BLINKING_PERIOD" value="400" />
+    <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
     <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
     <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
+    <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_ANIMATED_SCROLLING" value="false" />
     <option name="IS_DND_ENABLED" value="false" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
@@ -44,5 +46,12 @@
   <component name="PythonFoldingSettings">
     <option name="COLLAPSE_LONG_STRINGS" value="true" />
     <option name="COLLAPSE_SEQUENTIAL_COMMENTS" value="true" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
+    <pattern useCustomColors="true" case-sensitive="true" pattern="[]{1}GOOD.*$">
+      <option name="FOREGROUND" value="547854" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
   </component>
 </application>
