@@ -106,17 +106,17 @@
     <Position Save="True">
       <Maximized>False</Maximized>
       <Splitter>49.8953974895397</Splitter>
-      <Left>0</Left>
-      <Top>413</Top>
-      <Width>1550</Width>
-      <Height>1005</Height>
+      <Left>2560</Left>
+      <Top>23</Top>
+      <Width>1440</Width>
+      <Height>2515</Height>
       <PixelsPerInch>96</PixelsPerInch>
     </Position>
   </MainWindow>
   <Tabs>
     <OpenedTabs>
       <Left>
-        <ActiveTab>3</ActiveTab>
+        <ActiveTab>0</ActiveTab>
         <Tab>
           <FileView Type="columns">
             <Sortings>
@@ -152,217 +152,32 @@
                   <Path Filename="myman">/Users/gilad/Code/bashscripts/mytool/mytool/</Path>
                   <Path Filename=".idea">/Users/gilad/Code/bashscripts/mytool/</Path>
                   <Path Filename="reconciliation_engine">/Users/gilad/Code/rapyd/</Path>
+                  <Path Filename="AmazonImplementation">/Users/gilad/Code/rapyd/reconciliation_engine/</Path>
+                  <Path Filename="reconciliation_configuration">/Users/gilad/Code/rapyd/</Path>
+                  <Path Filename="..">/Users/gilad/Code/rapyd/reconciliation_configuration/</Path>
+                  <Path Filename="reconciliation_adapters_service">/Users/gilad/Code/rapyd/</Path>
+                  <Path Filename="..">/Users/gilad/Code/rapyd/reconciliation_adapters_service/</Path>
+                  <Path Filename="reconciliation-testing-tools">/Users/gilad/Code/rapyd/</Path>
+                  <Path Filename="..">/Users/gilad/Code/rapyd/reconciliation-testing-tools/</Path>
+                  <Path Filename="reconciliation_engine">/Users/gilad/Code/rapyd/</Path>
                   <Path Filename="..">/Users/gilad/Code/rapyd/reconciliation_engine/</Path>
-                </Paths>
-              </Entry>
-            </History>
-            <ColumnsView>
-              <ColumnsSet>Default</ColumnsSet>
-            </ColumnsView>
-          </FileView>
-        </Tab>
-        <Tab>
-          <FileView Type="columns">
-            <Sortings>
-              <Sorting>
-                <Direction>1</Direction>
-                <Function>12</Function>
-              </Sorting>
-            </Sortings>
-            <History>
-              <Entry Active="True">
-                <FileSource Type="FileSystem"/>
-                <Paths>
-                  <Path Filename="Applications">/Users/gilad/</Path>
-                  <Path Filename="..">/Users/gilad/Applications/</Path>
-                  <Path Filename="Applications">/Users/gilad/</Path>
-                  <Path Filename="JetBrains Toolbox">/Users/gilad/Applications/</Path>
-                  <Path Filename="IntelliJ IDEA Ultimate.app">/Users/gilad/Applications/JetBrains Toolbox/</Path>
-                  <Path Filename="DisableMonitor.app">/Users/gilad/Downloads/</Path>
-                  <Path Filename="bashscripts">/Users/gilad/Code/</Path>
-                  <Path Filename="mytool">/Users/gilad/Code/bashscripts/</Path>
-                  <Path Filename="mytool">/Users/gilad/Code/bashscripts/mytool/</Path>
-                  <Path Filename="myman">/Users/gilad/Code/bashscripts/mytool/mytool/</Path>
-                  <Path Filename="..">/Users/gilad/Code/bashscripts/mytool/mytool/myman/</Path>
-                  <Path Filename="myman">/Users/gilad/Code/bashscripts/mytool/mytool/</Path>
-                  <Path Filename=".idea">/Users/gilad/Code/bashscripts/mytool/</Path>
+                  <Path Filename="reconciliation_reports_generator">/Users/gilad/Code/rapyd/</Path>
+                  <Path Filename="..">/Users/gilad/Code/rapyd/reconciliation_reports_generator/</Path>
+                  <Path Filename="reconciliation_services">/Users/gilad/Code/rapyd/</Path>
+                  <Path Filename="..">/Users/gilad/Code/rapyd/reconciliation_services/</Path>
                   <Path Filename="reconciliation_engine">/Users/gilad/Code/rapyd/</Path>
-                  <Path Filename="reconJobs">/Users/gilad/Code/rapyd/reconciliation_engine/</Path>
-                  <Path Filename="pycharm-settings">/Users/gilad/Code/scratches/</Path>
-                  <Path Filename="editor.xml">/Users/gilad/Code/scratches/pycharm-settings/</Path>
-                  <Path Filename="pycharm-settings">/Users/gilad/Code/scratches/</Path>
-                  <Path Filename="codestyles">/Users/gilad/Code/scratches/pycharm-settings/</Path>
-                  <Path Filename="..">/Users/gilad/Code/scratches/pycharm-settings/codestyles/</Path>
-                  <Path Filename="inspection">/Users/gilad/Code/scratches/pycharm-settings/</Path>
-                  <Path Filename="intellij-config">/Users/gilad/Downloads/</Path>
-                  <Path Filename="config">/Users/gilad/Downloads/intellij-config/</Path>
-                  <Path Filename="event-log-whitelist">/Users/gilad/Downloads/intellij-config/config/</Path>
-                  <Path Filename="config">/Users/gilad/Downloads/intellij-config/</Path>
-                  <Path Filename="intellij-config">/Users/gilad/Downloads/</Path>
-                  <Path Filename="keymaps">/Users/gilad/Downloads/intellij-config/</Path>
-                  <Path Filename="..">/Users/gilad/Downloads/intellij-config/keymaps/</Path>
-                  <Path Filename="config">/Users/gilad/Downloads/intellij-config/</Path>
-                  <Path Filename="..">/Users/gilad/Downloads/intellij-config/config/</Path>
-                  <Path Filename="..">/Users/gilad/Downloads/intellij-config/</Path>
-                  <Path Filename="intellij-config">/Users/gilad/Downloads/</Path>
-                  <Path Filename="..">/Users/gilad/Downloads/intellij-config/</Path>
-                  <Path Filename="U2713H_U2713HM_Mac_EDID_override.zip">/Users/gilad/Downloads/</Path>
-                  <Path Filename="Overrides">/Users/gilad/Desktop/</Path>
-                  <Path Filename="..">/Users/gilad/Desktop/Overrides/</Path>
-                  <Path Filename="Overrides">/Users/gilad/Desktop/</Path>
-                  <Path Filename="..">/Users/gilad/Desktop/Overrides/</Path>
-                  <Path Filename="Overrides">/Users/gilad/Desktop/</Path>
-                  <Path Filename="DisplayVendorID-4c2d">/Users/gilad/</Path>
-                  <Path Filename="DisplayProductID-f9c">/Users/gilad/DisplayVendorID-4c2d/</Path>
-                  <Path Filename="Downloads">/Users/gilad/</Path>
-                  <Path Filename="DisplayVendorID-10ac">/Users/gilad/Downloads/</Path>
-                  <Path Filename="..">/Users/gilad/Downloads/DisplayVendorID-10ac/</Path>
-                  <Path Filename="plugins-list.mp4">/Users/gilad/Downloads/</Path>
-                  <Path Filename=".localized">/Users/gilad/Desktop/</Path>
-                  <Path Filename="intellij-config">/Users/gilad/Downloads/</Path>
-                  <Path Filename="..">/Users/gilad/Downloads/intellij-config/</Path>
-                  <Path Filename="INTELLIJ-CONFIG">/Users/gilad/Downloads/</Path>
-                  <Path Filename="consoles">/Users/gilad/Downloads/INTELLIJ-CONFIG/</Path>
-                </Paths>
-              </Entry>
-            </History>
-            <ColumnsView>
-              <ColumnsSet>Default</ColumnsSet>
-            </ColumnsView>
-          </FileView>
-        </Tab>
-        <Tab>
-          <FileView Type="columns">
-            <Sortings>
-              <Sorting>
-                <Direction>1</Direction>
-                <Function>12</Function>
-              </Sorting>
-            </Sortings>
-            <History>
-              <Entry Active="True">
-                <FileSource Type="FileSystem"/>
-                <Paths>
-                  <Path Filename="DisableMonitor.app">/Users/gilad/Downloads/</Path>
-                  <Path Filename="bashscripts">/Users/gilad/Code/</Path>
-                  <Path Filename="mytool">/Users/gilad/Code/bashscripts/</Path>
-                  <Path Filename="mytool">/Users/gilad/Code/bashscripts/mytool/</Path>
-                  <Path Filename="myman">/Users/gilad/Code/bashscripts/mytool/mytool/</Path>
-                  <Path Filename="..">/Users/gilad/Code/bashscripts/mytool/mytool/myman/</Path>
-                  <Path Filename="myman">/Users/gilad/Code/bashscripts/mytool/mytool/</Path>
-                  <Path Filename=".idea">/Users/gilad/Code/bashscripts/mytool/</Path>
-                  <Path Filename="reconciliation_engine">/Users/gilad/Code/rapyd/</Path>
-                  <Path Filename="reconJobs">/Users/gilad/Code/rapyd/reconciliation_engine/</Path>
-                  <Path Filename="pycharm-settings">/Users/gilad/Code/scratches/</Path>
-                  <Path Filename="editor.xml">/Users/gilad/Code/scratches/pycharm-settings/</Path>
-                  <Path Filename="pycharm-settings">/Users/gilad/Code/scratches/</Path>
-                  <Path Filename="codestyles">/Users/gilad/Code/scratches/pycharm-settings/</Path>
-                  <Path Filename="..">/Users/gilad/Code/scratches/pycharm-settings/codestyles/</Path>
-                  <Path Filename="inspection">/Users/gilad/Code/scratches/pycharm-settings/</Path>
-                  <Path Filename="intellij-config">/Users/gilad/Downloads/</Path>
-                  <Path Filename="config">/Users/gilad/Downloads/intellij-config/</Path>
-                  <Path Filename="event-log-whitelist">/Users/gilad/Downloads/intellij-config/config/</Path>
-                  <Path Filename="config">/Users/gilad/Downloads/intellij-config/</Path>
-                  <Path Filename="intellij-config">/Users/gilad/Downloads/</Path>
-                  <Path Filename="keymaps">/Users/gilad/Downloads/intellij-config/</Path>
-                  <Path Filename="..">/Users/gilad/Downloads/intellij-config/keymaps/</Path>
-                  <Path Filename="config">/Users/gilad/Downloads/intellij-config/</Path>
-                  <Path Filename="..">/Users/gilad/Downloads/intellij-config/config/</Path>
-                  <Path Filename="..">/Users/gilad/Downloads/intellij-config/</Path>
-                  <Path Filename="intellij-config">/Users/gilad/Downloads/</Path>
-                  <Path Filename="..">/Users/gilad/Downloads/intellij-config/</Path>
-                  <Path Filename="U2713H_U2713HM_Mac_EDID_override.zip">/Users/gilad/Downloads/</Path>
-                  <Path Filename="Overrides">/Users/gilad/Desktop/</Path>
-                  <Path Filename="..">/Users/gilad/Desktop/Overrides/</Path>
-                  <Path Filename="Overrides">/Users/gilad/Desktop/</Path>
-                  <Path Filename="..">/Users/gilad/Desktop/Overrides/</Path>
-                  <Path Filename="Overrides">/Users/gilad/Desktop/</Path>
-                  <Path Filename="DisplayVendorID-4c2d">/Users/gilad/</Path>
-                  <Path Filename="DisplayProductID-f9c">/Users/gilad/DisplayVendorID-4c2d/</Path>
-                  <Path Filename="Downloads">/Users/gilad/</Path>
-                  <Path Filename="DisplayVendorID-10ac">/Users/gilad/Downloads/</Path>
-                  <Path Filename="..">/Users/gilad/Downloads/DisplayVendorID-10ac/</Path>
-                  <Path Filename="plugins-list.mp4">/Users/gilad/Downloads/</Path>
-                  <Path Filename=".localized">/Users/gilad/Desktop/</Path>
-                  <Path Filename="intellij-config">/Users/gilad/Downloads/</Path>
-                  <Path Filename="..">/Users/gilad/Downloads/intellij-config/</Path>
-                  <Path Filename="INTELLIJ-CONFIG">/Users/gilad/Downloads/</Path>
-                  <Path Filename="consoles">/Users/gilad/Downloads/INTELLIJ-CONFIG/</Path>
-                  <Path Filename="..">/Users/gilad/Desktop/</Path>
-                  <Path Filename="..">/Users/gilad/Downloads/</Path>
-                  <Path Filename="DisplayVendorID-4c2d">/Users/gilad/</Path>
-                  <Path Filename="..">/Users/gilad/DisplayVendorID-4c2d/</Path>
-                  <Path Filename="Code">/Users/gilad/</Path>
-                </Paths>
-              </Entry>
-            </History>
-            <ColumnsView>
-              <ColumnsSet>Default</ColumnsSet>
-            </ColumnsView>
-          </FileView>
-        </Tab>
-        <Tab>
-          <FileView Type="columns">
-            <Sortings>
-              <Sorting>
-                <Direction>1</Direction>
-                <Function>12</Function>
-              </Sorting>
-            </Sortings>
-            <History>
-              <Entry>
-                <FileSource Type="FileSystem"/>
-                <Paths>
-                  <Path Filename="mytool">/Users/gilad/Code/bashscripts/</Path>
-                  <Path Filename="mytool">/Users/gilad/Code/bashscripts/mytool/</Path>
-                  <Path Filename="myman">/Users/gilad/Code/bashscripts/mytool/mytool/</Path>
-                  <Path Filename="..">/Users/gilad/Code/bashscripts/mytool/mytool/myman/</Path>
-                  <Path Filename="myman">/Users/gilad/Code/bashscripts/mytool/mytool/</Path>
-                  <Path Filename=".idea">/Users/gilad/Code/bashscripts/mytool/</Path>
-                  <Path Filename="reconciliation_engine">/Users/gilad/Code/rapyd/</Path>
-                  <Path Filename="reconJobs">/Users/gilad/Code/rapyd/reconciliation_engine/</Path>
-                  <Path Filename="pycharm-settings">/Users/gilad/Code/scratches/</Path>
-                  <Path Filename="editor.xml">/Users/gilad/Code/scratches/pycharm-settings/</Path>
-                  <Path Filename="pycharm-settings">/Users/gilad/Code/scratches/</Path>
-                  <Path Filename="codestyles">/Users/gilad/Code/scratches/pycharm-settings/</Path>
-                  <Path Filename="..">/Users/gilad/Code/scratches/pycharm-settings/codestyles/</Path>
-                  <Path Filename="inspection">/Users/gilad/Code/scratches/pycharm-settings/</Path>
-                  <Path Filename="intellij-config">/Users/gilad/Downloads/</Path>
-                  <Path Filename="config">/Users/gilad/Downloads/intellij-config/</Path>
-                  <Path Filename="event-log-whitelist">/Users/gilad/Downloads/intellij-config/config/</Path>
-                  <Path Filename="config">/Users/gilad/Downloads/intellij-config/</Path>
-                  <Path Filename="intellij-config">/Users/gilad/Downloads/</Path>
-                  <Path Filename="keymaps">/Users/gilad/Downloads/intellij-config/</Path>
-                  <Path Filename="..">/Users/gilad/Downloads/intellij-config/keymaps/</Path>
-                  <Path Filename="config">/Users/gilad/Downloads/intellij-config/</Path>
-                  <Path Filename="..">/Users/gilad/Downloads/intellij-config/config/</Path>
-                  <Path Filename="..">/Users/gilad/Downloads/intellij-config/</Path>
-                  <Path Filename="intellij-config">/Users/gilad/Downloads/</Path>
-                  <Path Filename="..">/Users/gilad/Downloads/intellij-config/</Path>
-                  <Path Filename="U2713H_U2713HM_Mac_EDID_override.zip">/Users/gilad/Downloads/</Path>
-                  <Path Filename="Overrides">/Users/gilad/Desktop/</Path>
-                  <Path Filename="..">/Users/gilad/Desktop/Overrides/</Path>
-                  <Path Filename="Overrides">/Users/gilad/Desktop/</Path>
-                  <Path Filename="..">/Users/gilad/Desktop/Overrides/</Path>
-                  <Path Filename="Overrides">/Users/gilad/Desktop/</Path>
-                  <Path Filename="DisplayVendorID-4c2d">/Users/gilad/</Path>
-                  <Path Filename="DisplayProductID-f9c">/Users/gilad/DisplayVendorID-4c2d/</Path>
-                  <Path Filename="Downloads">/Users/gilad/</Path>
-                  <Path Filename="DisplayVendorID-10ac">/Users/gilad/Downloads/</Path>
-                  <Path Filename="..">/Users/gilad/Downloads/DisplayVendorID-10ac/</Path>
-                  <Path Filename="plugins-list.mp4">/Users/gilad/Downloads/</Path>
-                  <Path Filename=".localized">/Users/gilad/Desktop/</Path>
-                  <Path Filename="intellij-config">/Users/gilad/Downloads/</Path>
-                  <Path Filename="..">/Users/gilad/Downloads/intellij-config/</Path>
-                  <Path Filename="INTELLIJ-CONFIG">/Users/gilad/Downloads/</Path>
-                  <Path Filename="consoles">/Users/gilad/Downloads/INTELLIJ-CONFIG/</Path>
-                  <Path Filename="..">/Users/gilad/Desktop/</Path>
-                  <Path Filename="..">/Users/gilad/Downloads/</Path>
-                  <Path Filename="DisplayVendorID-4c2d">/Users/gilad/</Path>
-                  <Path Filename="..">/Users/gilad/DisplayVendorID-4c2d/</Path>
-                  <Path Filename="Code">/Users/gilad/</Path>
-                  <Path Filename="..">/Users/gilad/Downloads/</Path>
-                  <Path Filename="">/Users/gilad/Desktop/</Path>
+                  <Path Filename="src">/Users/gilad/Code/rapyd/reconciliation_engine/</Path>
+                  <Path Filename="reconciliation-services">/Users/gilad/Code/rapyd/reconciliation_engine/src/</Path>
+                  <Path Filename="..">/Users/gilad/Code/rapyd/reconciliation_engine/src/reconciliation-services/</Path>
+                  <Path Filename="reconciliation-reports-generator">/Users/gilad/Code/rapyd/reconciliation_engine/src/</Path>
+                  <Path Filename="..">/Users/gilad/Code/rapyd/reconciliation_engine/src/reconciliation-reports-generator/</Path>
+                  <Path Filename="reconciliation-reports-generator">/Users/gilad/Code/rapyd/reconciliation_engine/src/</Path>
+                  <Path Filename="logs">/Users/gilad/Code/rapyd/reconciliation_engine/</Path>
+                  <Path Filename="reconciliation-testing-tools">/Users/gilad/Code/rapyd/</Path>
+                  <Path Filename="reconciliation_utils">/Users/gilad/Code/rapyd/reconciliation-testing-tools/</Path>
+                  <Path Filename="..">/Users/gilad/Code/rapyd/reconciliation-testing-tools/reconciliation_utils/</Path>
+                  <Path Filename="reconciliation_utils">/Users/gilad/Code/rapyd/reconciliation-testing-tools/</Path>
+                  <Path Filename="commonDateManager.py">/Users/gilad/Code/rapyd/reconciliation-testing-tools/reconciliation_utils/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -417,7 +232,7 @@
                   <Path Filename="..">/Users/gilad/Library/Preferences/doublecmd/</Path>
                   <Path Filename="IntelliJIdea2019.3">/Users/gilad/Library/Preferences/</Path>
                   <Path Filename="options">/Users/gilad/Library/Preferences/IntelliJIdea2019.3/</Path>
-                  <Path Filename="textmate_os.xml">/Users/gilad/Library/Preferences/IntelliJIdea2019.3/options/</Path>
+                  <Path Filename="">/Users/gilad/Library/Preferences/IntelliJIdea2019.3/options/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -470,7 +285,7 @@
                   <Path Filename="IntelliJIdea2019.3">/Users/gilad/Library/Preferences/</Path>
                   <Path Filename="options">/Users/gilad/Library/Preferences/IntelliJIdea2019.3/</Path>
                   <Path Filename="pySdk.xml">/Users/gilad/Library/Preferences/IntelliJIdea2019.3/options/</Path>
-                  <Path Filename="DisplayProductID-4093">/System/Library/Displays/Contents/Resources/Overrides/DisplayVendorID-10ac/</Path>
+                  <Path Filename="DisplayProductID-4147">/System/Library/Displays/Contents/Resources/Overrides/DisplayVendorID-10ac/</Path>
                 </Paths>
               </Entry>
             </History>

@@ -2,15 +2,16 @@
 <doublecmd>
   <History>
     <Navigation>
+      <Item>/Users/gilad/Code/rapyd/reconciliation-testing-tools/reconciliation_utils/</Item>
+      <Item>/Users/gilad/Code/rapyd/reconciliation-testing-tools/</Item>
+      <Item>/Users/gilad/Code/rapyd/</Item>
       <Item>/Users/gilad/Downloads/</Item>
       <Item>/Users/gilad/Code/rapyd/reconciliation_engine/</Item>
       <Item>/Users/gilad/Code/rapyd/reconciliation_engine/src/</Item>
       <Item>/Users/gilad/Code/rapyd/reconciliation_engine/src/reconciliation-reports-generator/</Item>
       <Item>/Users/gilad/Code/rapyd/reconciliation_engine/src/reconciliation-services/</Item>
-      <Item>/Users/gilad/Code/rapyd/</Item>
       <Item>/Users/gilad/Code/rapyd/reconciliation_services/</Item>
       <Item>/Users/gilad/Code/rapyd/reconciliation_reports_generator/</Item>
-      <Item>/Users/gilad/Code/rapyd/reconciliation-testing-tools/</Item>
       <Item>/Users/gilad/Code/rapyd/reconciliation_adapters_service/</Item>
       <Item>/Users/gilad/Code/rapyd/reconciliation_configuration/</Item>
       <Item>/Users/gilad/Desktop/</Item>
@@ -52,9 +53,9 @@
       <Item>/Users/gilad/Code/bashscripts/mytool/</Item>
       <Item>/Users/gilad/Code/bashscripts/mytool/mytool/</Item>
       <Item>/Users/gilad/Code/bashscripts/mytool/mytool/myman/</Item>
-      <Item>/Users/gilad/Code/bashscripts/</Item>
     </Navigation>
     <CommandLine>
+      <Item>open .</Item>
       <Item>code .</Item>
       <Item>code idea.key</Item>
       <Item>cd ~/Downloads</Item>
