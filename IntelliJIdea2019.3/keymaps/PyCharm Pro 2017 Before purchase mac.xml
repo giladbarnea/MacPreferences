@@ -62,6 +62,7 @@
   <action id="CloseActiveTab" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
+    <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
@@ -424,6 +425,9 @@
     <keyboard-shortcut first-keystroke="ctrl meta o" />
   </action>
   <action id="OpenElementInNewWindow" />
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="meta o" />
+  </action>
   <action id="OptimizeImports" />
   <action id="PasteMultiple">
     <keyboard-shortcut first-keystroke="shift meta v" />
@@ -692,6 +696,9 @@
   <action id="context.save" />
   <action id="editRunConfigurations">
     <keyboard-shortcut first-keystroke="shift ctrl meta f5" />
+  </action>
+  <action id="emacsIDEAs.AceJump">
+    <keyboard-shortcut first-keystroke="meta m" />
   </action>
   <action id="emacsIDEAs.AceJumpSelect">
     <keyboard-shortcut first-keystroke="shift meta m" />

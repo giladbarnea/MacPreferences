@@ -1,11 +1,7 @@
 <application>
   <component name="libraryTable">
-    <library name="Python 3.7 interpreter library">
+    <library name="Python 3.7.3 interpreter library">
       <CLASSES>
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/Code/rapyd/reconciliation_engine/venv/lib/python3.7/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
         <root url="file://$USER_HOME$/Code/rapyd/reconciliation_engine/src/reconciliation-services" />
         <root url="file://$USER_HOME$/Code/rapyd/reconciliation_engine/src/reconciliation-reports-generator" />
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.3/python_stubs/-885910402" />
@@ -17,10 +13,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/Code/rapyd/reconciliation_engine/venv/lib/python3.7/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" />
         <root url="file://$USER_HOME$/Code/rapyd/reconciliation_engine/src/reconciliation-services" />
         <root url="file://$USER_HOME$/Code/rapyd/reconciliation_engine/src/reconciliation-reports-generator" />
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.3/python_stubs/-885910402" />

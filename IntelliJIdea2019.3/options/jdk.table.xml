@@ -89,28 +89,16 @@
       <additional />
     </jdk>
     <jdk version="2">
-      <name value="Python 3.7" />
+      <name value="Python 3.7.3" />
       <type value="Python SDK" />
-      <version value="Python 3.7.6" />
-      <homePath value="/Library/Frameworks/Python.framework/Versions/3.7/bin/python3.7" />
+      <version value="Python 3.7.3" />
+      <homePath value="/usr/bin/python3" />
       <roots>
         <annotationsPath>
           <root type="composite" />
         </annotationsPath>
         <classPath>
-          <root type="composite">
-            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
-            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" type="simple" />
-            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/Code/rapyd/reconciliation_engine/src/reconciliation-services" type="simple" />
-            <root url="file://$USER_HOME$/Code/rapyd/reconciliation_engine/src/reconciliation-reports-generator" type="simple" />
-            <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.3/python_stubs/-502983299" type="simple" />
-            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" type="simple" />
-            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" type="simple" />
-            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" type="simple" />
-            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" type="simple" />
-            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" type="simple" />
-          </root>
+          <root type="composite" />
         </classPath>
         <javadocPath>
           <root type="composite" />
