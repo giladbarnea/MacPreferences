@@ -1,0 +1,31 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Code/scratches/py-multi-processing" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/Code/scratches/py-multi-processing" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/Code/scratches/py-multi-processing" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Code/scratches/py-multi-processing">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-191.8026.42" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1577891683820" />
+              <option name="buildTimestamp" value="1564463921664" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

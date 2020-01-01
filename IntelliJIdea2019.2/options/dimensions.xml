@@ -1,0 +1,16 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.2560.1440" x="1280" y="583" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.2560.1440" x="1187" y="563" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.2560.1440" x="962" y="393" />
+    <location key="SettingsEditor.0.0.2560.1440" x="768" y="313" />
+    <size key="GridCell.Tab.0.left.0.0.2560.1440" width="2518" height="334" />
+    <size key="GridCell.Tab.0.center.0.0.2560.1440" width="2518" height="334" />
+    <size key="GridCell.Tab.0.right.0.0.2560.1440" width="2518" height="334" />
+    <size key="GridCell.Tab.0.bottom.0.0.2560.1440" width="2518" height="334" />
+    <size key="GridCell.Tab.1.left.0.0.2560.1440" width="2518" height="334" />
+    <size key="GridCell.Tab.1.center.0.0.2560.1440" width="2518" height="334" />
+    <size key="GridCell.Tab.1.right.0.0.2560.1440" width="2518" height="334" />
+    <size key="GridCell.Tab.1.bottom.0.0.2560.1440" width="2518" height="334" />
+  </component>
+</application>
