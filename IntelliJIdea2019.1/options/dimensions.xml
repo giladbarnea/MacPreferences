@@ -2,7 +2,15 @@
   <component name="DimensionService">
     <location key="WELCOME_SCREEN.0.0.2560.1440" x="1280" y="583" />
     <location key="com.intellij.ide.util.TipDialog.0.0.2560.1440" x="960" y="563" />
-    <location key="SettingsEditor.0.0.2560.1440" x="984" y="380" />
+    <location key="SettingsEditor.0.0.2560.1440" x="892" y="1551" />
+    <location key="search.everywhere.popup.0.0.2560.1440" x="970" y="348" />
+    <location key="recent.locations.popup.0.0.2560.1440" x="954" y="454" />
+    <location key="SettingsEditor.0.0.3360.2100@192dpi" x="726" y="372" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.0.0.3360.2100@192dpi" x="2206" y="850" />
+    <location key="search.everywhere.popup.0.0.3360.2100@192dpi" x="1940" y="696" />
+    <location key="SettingsEditor.0.0.2880.1800@192dpi" x="416" y="86" />
+    <location key="SettingsEditor.-605.-1440.2560.1440" x="161" y="-1059" />
+    <location key="SettingsEditor.-605.-1440.2560.1440@120dpi" x="161" y="-1059" />
     <size key="GridCell.Tab.0.left.0.0.2560.1440" width="2518" height="337" />
     <size key="GridCell.Tab.0.center.0.0.2560.1440" width="2518" height="337" />
     <size key="GridCell.Tab.0.right.0.0.2560.1440" width="2518" height="337" />
@@ -11,5 +19,9 @@
     <size key="GridCell.Tab.1.center.0.0.2560.1440" width="2518" height="337" />
     <size key="GridCell.Tab.1.right.0.0.2560.1440" width="2518" height="337" />
     <size key="GridCell.Tab.1.bottom.0.0.2560.1440" width="2518" height="337" />
+    <size key="search.everywhere.popup.0.0.2560.1440" width="670" height="676" />
+    <size key="SettingsEditor.0.0.2560.1440" width="1144" height="701" />
+    <size key="recent.locations.popup.0.0.2560.1440" width="700" height="530" />
+    <size key="search.everywhere.popup.0.0.3360.2100@192dpi" width="1340" height="1352" />
   </component>
 </application>

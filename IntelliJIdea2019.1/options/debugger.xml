@@ -77,8 +77,12 @@
     </filter>
   </component>
   <component name="XDebuggerSettings">
-    <data-views />
-    <general />
+    <data-views>
+      <option name="valueLookupDelay" value="0" />
+    </data-views>
+    <general>
+      <scroll-to-center>true</scroll-to-center>
+    </general>
     <debuggers>
       <debugger id="javascript">
         <configuration>
@@ -88,6 +92,11 @@
       <debugger id="kotlin_debugger">
         <configuration>
           <option name="DEBUG_IS_FILTER_FOR_STDLIB_ALREADY_ADDED" value="true" />
+        </configuration>
+      </debugger>
+      <debugger id="python">
+        <configuration>
+          <option name="librariesFilterEnabled" value="true" />
         </configuration>
       </debugger>
     </debuggers>
