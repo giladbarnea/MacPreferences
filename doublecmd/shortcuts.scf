@@ -299,11 +299,6 @@
         <Control>Files Panel</Control>
       </Hotkey>
       <Hotkey>
-        <Shortcut>WinKey+A</Shortcut>
-        <Command>cm_MarkMarkAll</Command>
-        <Control>Files Panel</Control>
-      </Hotkey>
-      <Hotkey>
         <Shortcut>Num+</Shortcut>
         <Command>cm_MarkPlus</Command>
         <Control>Files Panel</Control>
@@ -412,6 +407,11 @@
       <Hotkey>
         <Shortcut>Esc</Shortcut>
         <Command>cm_MarkUnmarkAll</Command>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>WinKey+A</Shortcut>
+        <Command>cm_MarkMarkAll</Command>
         <Control>Files Panel</Control>
       </Hotkey>
     </Form>
