@@ -17,5 +17,6 @@ IntelliJIdea2019.1/options/window.manager.xml
 IntelliJIdea2019.1/options/usage.statistics.xml
 IntelliJIdea2019.1/options/recentProjects.xml
 
+doublecmd/history.ini
 doublecmd/history.xml
-doublecmd/session.xml
+doublecmd/session.ini
