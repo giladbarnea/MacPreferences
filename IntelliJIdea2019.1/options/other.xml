@@ -5,10 +5,28 @@
         <expanded-state>
           <State />
           <State>
+            <id>AccessibilityHTML</id>
+          </State>
+          <State>
             <id>AccessibilityLintAndroid</id>
           </State>
           <State>
             <id>Android</id>
+          </State>
+          <State>
+            <id>Buildout</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Code quality toolsJavaScript</id>
+          </State>
+          <State>
+            <id>Code style issuesCSS</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
           </State>
           <State>
             <id>Compiler issuesJava</id>
@@ -20,6 +38,15 @@
             <id>Cucumber</id>
           </State>
           <State>
+            <id>Data flowJava</id>
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>Django</id>
+          </State>
+          <State>
             <id>Dockerfile</id>
           </State>
           <State>
@@ -27,6 +54,12 @@
           </State>
           <State>
             <id>GPathGroovy</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
           </State>
           <State>
             <id>Google Web Toolkit</id>
@@ -38,16 +71,28 @@
             <id>Groovy</id>
           </State>
           <State>
+            <id>HTML</id>
+          </State>
+          <State>
             <id>InternationalizationJava</id>
           </State>
           <State>
             <id>InteroperabilityLintAndroid</id>
           </State>
           <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>JBoss Seam</id>
+          </State>
+          <State>
             <id>JPA</id>
           </State>
           <State>
             <id>JSON and JSON5</id>
+          </State>
+          <State>
+            <id>JUnitJava</id>
           </State>
           <State>
             <id>Java</id>
@@ -62,6 +107,12 @@
             <id>Java language level migration aidsJava</id>
           </State>
           <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
             <id>Kotlin</id>
           </State>
           <State>
@@ -69,6 +120,12 @@
           </State>
           <State>
             <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>MessagesCorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Naming conventionsJava</id>
           </State>
           <State>
             <id>PerformanceJava</id>
@@ -83,7 +140,13 @@
             <id>Potentially confusing code constructsGroovy</id>
           </State>
           <State>
+            <id>Probable bugsCSS</id>
+          </State>
+          <State>
             <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
           </State>
           <State>
             <id>Properties Files</id>
@@ -95,19 +158,55 @@
             <id>Python</id>
           </State>
           <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
             <id>SecurityLintAndroid</id>
           </State>
           <State>
             <id>Spring</id>
           </State>
           <State>
+            <id>Spring AOPSpring</id>
+          </State>
+          <State>
             <id>Spring BootSpring</id>
+          </State>
+          <State>
+            <id>Spring Cloud StreamSpring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring IntegrationSpring</id>
+          </State>
+          <State>
+            <id>StyleGroovy</id>
           </State>
           <State>
             <id>Thymeleaf</id>
           </State>
           <State>
+            <id>TypeScript</id>
+          </State>
+          <State>
             <id>UI Form</id>
+          </State>
+          <State>
+            <id>Unit testingJavaScript</id>
+          </State>
+          <State>
+            <id>Verbose or redundant code constructsJava</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+          <State>
+            <id>XMLSpring CoreSpring</id>
           </State>
           <State>
             <id>YAML</id>
@@ -116,6 +215,11 @@
             <id>docker-compose</id>
           </State>
         </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
       </profile-state>
     </entry>
   </component>
@@ -142,7 +246,8 @@
     <property name="ExpandBeforeRunStepsPanel" value="true" />
     <property name="ExpandRunDashboardTypesPanel" value="false" />
     <property name="INSPECTION_FILTER_HISTORY" value="typo" />
-    <property name="KEYMAP" value="find word at&#10;occu&#10;join lines&#10;select all&#10;new" />
+    <property name="InstalledPluginsSearchHistory" value="bash&#10;browse" />
+    <property name="KEYMAP" value="tabmover&#10;occu&#10;browse word&#10;find word at&#10;join lines" />
     <property name="LayoutCode.codeCleanup" value="true" />
     <property name="LayoutCode.optimizeImports" value="false" />
     <property name="LayoutCode.rearrangeEntriesPython" value="false" />
@@ -150,8 +255,8 @@
     <property name="ProjectStructure.SecondLevelElements" value="0.21826923" />
     <property name="ProjectStructure.TopLevelElements" value="0.1683434" />
     <property name="RunConfigurable.dividerProportion" value="0.17792521" />
-    <property name="SettingsSearchHistory" value="line numbers&#10;keymap&#10;keym&#10;inspections&#10;smart tab" />
-    <property name="TrendingPluginsSearchHistory" value="scroll" />
+    <property name="SettingsSearchHistory" value="plugins&#10;keymap&#10;browse&#10;highlight word at&#10;line numbers" />
+    <property name="TrendingPluginsSearchHistory" value="shell&#10;tabmover&#10;browse&#10;scroll" />
     <property name="ask.about.ctrl.y.shortcut" value="true" />
     <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
     <property name="create.project.preferred.importer" value="Existing Sources" />

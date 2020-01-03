@@ -34,8 +34,10 @@
     <location key="search.everywhere.popup.-1932.-3600.6400.3600@240dpi" x="430" y="-2738" />
     <location key="run.anything.popup.-1932.-3600.6400.3600@240dpi" x="430" y="-936" />
     <location key="WELCOME_SCREEN.0.0.5120.2880@240dpi" x="2560" y="1202" />
-    <location key="SettingsEditor.0.0.5120.2880@240dpi" x="442" y="596" />
+    <location key="SettingsEditor.0.0.5120.2880@240dpi" x="1512" y="636" />
     <location key="search.everywhere.popup.0.0.5120.2880@240dpi" x="796" y="682" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.5120.2880@240dpi" x="1480" y="772" />
+    <location key="#Shellcheck.0.0.5120.2880@240dpi" x="2056" y="1062" />
     <size key="GridCell.Tab.0.left.0.0.2560.1440" width="2518" height="337" />
     <size key="GridCell.Tab.0.center.0.0.2560.1440" width="2518" height="337" />
     <size key="GridCell.Tab.0.right.0.0.2560.1440" width="2518" height="337" />
