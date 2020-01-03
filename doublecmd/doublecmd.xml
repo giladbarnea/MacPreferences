@@ -105,18 +105,18 @@
   <MainWindow>
     <Position Save="True">
       <Maximized>False</Maximized>
-      <Splitter>62.6304801670146</Splitter>
-      <Left>6</Left>
-      <Top>26</Top>
-      <Width>2560</Width>
-      <Height>1395</Height>
+      <Splitter>58.6233867813844</Splitter>
+      <Left>0</Left>
+      <Top>173</Top>
+      <Width>1440</Width>
+      <Height>855</Height>
       <PixelsPerInch>96</PixelsPerInch>
     </Position>
   </MainWindow>
   <Tabs>
     <OpenedTabs>
       <Left>
-        <ActiveTab>2</ActiveTab>
+        <ActiveTab>3</ActiveTab>
         <Tab>
           <FileView Type="columns">
             <Sortings>
@@ -129,12 +129,6 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="..">/Users/gilad/Code/rapyd/reconciliation_engine/</Path>
-                  <Path Filename="reconciliation_reports_generator">/Users/gilad/Code/rapyd/</Path>
-                  <Path Filename="..">/Users/gilad/Code/rapyd/reconciliation_reports_generator/</Path>
-                  <Path Filename="reconciliation_services">/Users/gilad/Code/rapyd/</Path>
-                  <Path Filename="..">/Users/gilad/Code/rapyd/reconciliation_services/</Path>
-                  <Path Filename="reconciliation_engine">/Users/gilad/Code/rapyd/</Path>
                   <Path Filename="src">/Users/gilad/Code/rapyd/reconciliation_engine/</Path>
                   <Path Filename="reconciliation-services">/Users/gilad/Code/rapyd/reconciliation_engine/src/</Path>
                   <Path Filename="..">/Users/gilad/Code/rapyd/reconciliation_engine/src/reconciliation-services/</Path>
@@ -178,7 +172,13 @@
                   <Path Filename="reconciliation-services">/Users/gilad/Code/rapyd/reconciliation_engine/src/</Path>
                   <Path Filename="reconciliation_engine.egg-info">/Users/gilad/Code/rapyd/reconciliation_engine/</Path>
                   <Path Filename="..">/Users/gilad/Code/rapyd/reconciliation_engine/reconciliation_engine.egg-info/</Path>
-                  <Path Filename="playground.py">/Users/gilad/Code/rapyd/reconciliation_engine/</Path>
+                  <Path Filename="src">/Users/gilad/Code/rapyd/reconciliation_engine/</Path>
+                  <Path Filename="reconciliation_services">/Users/gilad/Code/rapyd/reconciliation_engine/src/</Path>
+                  <Path Filename="..">/Users/gilad/Code/rapyd/reconciliation_engine/src/reconciliation_services/</Path>
+                  <Path Filename="reconciliation-services">/Users/gilad/Code/rapyd/reconciliation_engine/src/</Path>
+                  <Path Filename="..">/Users/gilad/Code/rapyd/reconciliation_engine/src/reconciliation-services/</Path>
+                  <Path Filename="..">/Users/gilad/Code/rapyd/reconciliation_engine/src/</Path>
+                  <Path Filename="..">/Users/gilad/Code/rapyd/reconciliation_engine/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -199,8 +199,6 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="..">/Users/gilad/Code/rapyd/reconciliation_adapters_service/</Path>
-                  <Path Filename="reconciliation-testing-tools">/Users/gilad/Code/rapyd/</Path>
                   <Path Filename="..">/Users/gilad/Code/rapyd/reconciliation-testing-tools/</Path>
                   <Path Filename="reconciliation_engine">/Users/gilad/Code/rapyd/</Path>
                   <Path Filename="..">/Users/gilad/Code/rapyd/reconciliation_engine/</Path>
@@ -249,6 +247,8 @@
                   <Path Filename="assets">/Users/gilad/.config/karabiner/</Path>
                   <Path Filename="complex_modifications">/Users/gilad/.config/karabiner/assets/</Path>
                   <Path Filename="1577785617.json">/Users/gilad/.config/karabiner/assets/complex_modifications/</Path>
+                  <Path Filename="Detalle Transacciones no consideradas - 24122019.xls">/Users/gilad/Downloads/</Path>
+                  <Path Filename="rcfiles.code-workspace">/Users/gilad/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -269,9 +269,6 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="reconCommonLib">/Users/gilad/Code/rapyd/reconciliation_engine/src/reconciliation-services/</Path>
-                  <Path Filename="reconciliation-services">/Users/gilad/Code/rapyd/reconciliation_engine/src/</Path>
-                  <Path Filename="src">/Users/gilad/Code/rapyd/reconciliation_engine/</Path>
                   <Path Filename="bulkUpload.py">/Users/gilad/Code/rapyd/</Path>
                   <Path Filename="karabiner">/Users/gilad/.config/</Path>
                   <Path Filename="assets">/Users/gilad/.config/karabiner/</Path>
@@ -318,7 +315,80 @@
                   <Path Filename=".Trash">/Users/gilad/</Path>
                   <Path Filename="gilad">/Users/</Path>
                   <Path Filename="Users">/</Path>
-                  <Path Filename="pythonw">/usr/bin/</Path>
+                  <Path Filename="pythonw2.7">/usr/bin/</Path>
+                  <Path Filename="191.8026.42">/Users/gilad/Library/Application Support/JetBrains/Toolbox/apps/IDEA-U/ch-0/</Path>
+                  <Path Filename="IntelliJ IDEA.app.plugins">/Users/gilad/Library/Application Support/JetBrains/Toolbox/apps/IDEA-U/ch-0/191.8026.42/</Path>
+                  <Path Filename="191.8026.42">/Users/gilad/Library/Application Support/JetBrains/Toolbox/apps/IDEA-U/ch-0/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="validators">/Users/gilad/Code/rapyd/reconciliation-testing-tools/</Path>
+                  <Path Filename="..">/Users/gilad/Code/rapyd/reconciliation-testing-tools/validators/</Path>
+                  <Path Filename="tests">/Users/gilad/Code/rapyd/reconciliation-testing-tools/</Path>
+                  <Path Filename="..">/Users/gilad/Code/rapyd/reconciliation-testing-tools/tests/</Path>
+                  <Path Filename="tests">/Users/gilad/Code/rapyd/reconciliation-testing-tools/</Path>
+                  <Path Filename="reconciliation_adapters_service">/Users/gilad/Code/rapyd/</Path>
+                  <Path Filename="..">/Users/gilad/Code/rapyd/reconciliation_adapters_service/</Path>
+                  <Path Filename="reconciliation_configuration">/Users/gilad/Code/rapyd/</Path>
+                  <Path Filename="..">/Users/gilad/Code/rapyd/reconciliation_configuration/</Path>
+                  <Path Filename="reconciliation_configuration">/Users/gilad/Code/rapyd/</Path>
+                  <Path Filename="..">/Users/gilad/Code/rapyd/reconciliation_configuration/</Path>
+                  <Path Filename="reconciliation_engine">/Users/gilad/Code/rapyd/</Path>
+                  <Path Filename="commonLib">/Users/gilad/Code/rapyd/reconciliation_engine/</Path>
+                  <Path Filename="__pycache__">/Users/gilad/Code/rapyd/reconciliation_engine/commonLib/</Path>
+                  <Path Filename="src">/Users/gilad/Code/rapyd/reconciliation_engine/</Path>
+                  <Path Filename="reconciliation-services">/Users/gilad/Code/rapyd/reconciliation_engine/src/</Path>
+                  <Path Filename="reconCommonLib">/Users/gilad/Code/rapyd/reconciliation_engine/src/reconciliation-services/</Path>
+                  <Path Filename="commonDateManager.py">/Users/gilad/Code/rapyd/reconciliation_engine/src/reconciliation-services/reconCommonLib/</Path>
+                  <Path Filename="reconCommonLib">/Users/gilad/Code/rapyd/reconciliation_engine/src/reconciliation-services/</Path>
+                  <Path Filename="..">/Users/gilad/Code/rapyd/reconciliation_engine/src/reconciliation-services/reconCommonLib/</Path>
+                  <Path Filename="reconCommonLib">/Users/gilad/Code/rapyd/reconciliation_engine/src/reconciliation-services/</Path>
+                  <Path Filename="reconciliation-services">/Users/gilad/Code/rapyd/reconciliation_engine/src/</Path>
+                  <Path Filename="src">/Users/gilad/Code/rapyd/reconciliation_engine/</Path>
+                  <Path Filename="bulkUpload.py">/Users/gilad/Code/rapyd/</Path>
+                  <Path Filename="karabiner">/Users/gilad/.config/</Path>
+                  <Path Filename="assets">/Users/gilad/.config/karabiner/</Path>
+                  <Path Filename="complex_modifications">/Users/gilad/.config/karabiner/assets/</Path>
+                  <Path Filename="1577785617.json">/Users/gilad/.config/karabiner/assets/complex_modifications/</Path>
+                  <Path Filename="Detalle Transacciones no consideradas - 24122019.xls">/Users/gilad/Downloads/</Path>
+                  <Path Filename="Code">/Users/gilad/</Path>
+                  <Path Filename="mytool">/Users/gilad/Code/</Path>
+                  <Path Filename="mytool.egg-info">/Users/gilad/Code/mytool/</Path>
+                  <Path Filename="mytool">/Users/gilad/Code/</Path>
+                  <Path Filename="mytool">/Users/gilad/Code/mytool/</Path>
+                  <Path Filename="..">/Users/gilad/Code/mytool/mytool/</Path>
+                  <Path Filename="mytool">/Users/gilad/Code/mytool/</Path>
+                  <Path Filename=".DS_Store">/Users/gilad/Code/mytool/mytool/</Path>
+                  <Path Filename="mytool">/Users/gilad/Code/mytool/</Path>
+                  <Path Filename="..">/Users/gilad/Code/mytool/mytool/</Path>
+                  <Path Filename="setup.py">/Users/gilad/Code/mytool/</Path>
+                  <Path Filename="mytool">/Users/gilad/Code/</Path>
+                  <Path Filename="mytool">/Users/gilad/Code/mytool/</Path>
+                  <Path Filename="..">/Users/gilad/Code/mytool/mytool/</Path>
+                  <Path Filename="mytool">/Users/gilad/Code/mytool/</Path>
+                  <Path Filename="__main__.py">/Users/gilad/Code/mytool/mytool/</Path>
+                  <Path Filename="mytool">/Users/gilad/Code/mytool/</Path>
+                  <Path Filename="__term__py38">/Users/gilad/Code/mytool/mytool/</Path>
+                  <Path Filename="mytool">/Users/gilad/Code/mytool/</Path>
+                  <Path Filename="__term__py38">/Users/gilad/Code/mytool/mytool/</Path>
+                  <Path Filename="env">/Users/gilad/Code/mytool/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -329,77 +399,7 @@
         </Tab>
       </Left>
       <Right>
-        <ActiveTab>2</ActiveTab>
-        <Tab>
-          <FileView Type="columns">
-            <Sortings>
-              <Sorting>
-                <Direction>2</Direction>
-                <Function>12</Function>
-              </Sorting>
-            </Sortings>
-            <History>
-              <Entry Active="True">
-                <FileSource Type="FileSystem"/>
-                <Paths>
-                  <Path Filename="..">/Users/gilad/Library/Preferences/PyCharm2019.3/settingsRepository/</Path>
-                  <Path Filename="settingsRepository">/Users/gilad/Library/Preferences/PyCharm2019.3/</Path>
-                  <Path Filename="PyCharm2019.3">/Users/gilad/Library/Preferences/</Path>
-                  <Path Filename="..">/Users/gilad/Library/Preferences/PyCharm2019.3/</Path>
-                  <Path Filename="IntelliJIdea2019.3">/Users/gilad/Library/Preferences/</Path>
-                  <Path Filename="options">/Users/gilad/Library/Preferences/IntelliJIdea2019.3/</Path>
-                  <Path Filename="..">/Users/gilad/Library/Preferences/IntelliJIdea2019.3/options/</Path>
-                  <Path Filename="keymaps">/Users/gilad/Library/Preferences/IntelliJIdea2019.3/</Path>
-                  <Path Filename="PyCharm Pro 2017 Before purchase mac.xml">/Users/gilad/Library/Preferences/IntelliJIdea2019.3/keymaps/</Path>
-                  <Path Filename="known_hosts">/Users/gilad/.ssh/</Path>
-                  <Path Filename="Library">/Users/gilad/</Path>
-                  <Path Filename="Preferences">/Users/gilad/Library/</Path>
-                  <Path Filename="IntelliJIdea2019.3">/Users/gilad/Library/Preferences/</Path>
-                  <Path Filename="port">/Users/gilad/Library/Preferences/IntelliJIdea2019.3/</Path>
-                  <Path Filename="IntelliJIdea2019.3">/Users/gilad/Library/Preferences/</Path>
-                  <Path Filename="settingsRepository">/Users/gilad/Library/Preferences/IntelliJIdea2019.3/</Path>
-                  <Path Filename="..">/Users/gilad/Library/Preferences/IntelliJIdea2019.3/settingsRepository/</Path>
-                  <Path Filename="options">/Users/gilad/Library/Preferences/IntelliJIdea2019.3/</Path>
-                  <Path Filename="doublecmd">/Users/gilad/Library/Preferences/</Path>
-                  <Path Filename="..">/Users/gilad/Library/Preferences/doublecmd/</Path>
-                  <Path Filename="IntelliJIdea2019.3">/Users/gilad/Library/Preferences/</Path>
-                  <Path Filename="options">/Users/gilad/Library/Preferences/IntelliJIdea2019.3/</Path>
-                  <Path Filename="pySdk.xml">/Users/gilad/Library/Preferences/IntelliJIdea2019.3/options/</Path>
-                  <Path Filename="DisplayProductID-4147">/System/Library/Displays/Contents/Resources/Overrides/DisplayVendorID-10ac/</Path>
-                  <Path Filename="reconciliation-testing-tools">/Users/gilad/Code/rapyd/</Path>
-                  <Path Filename="reconciliation_utils">/Users/gilad/Code/rapyd/reconciliation-testing-tools/</Path>
-                  <Path Filename="..">/Users/gilad/Code/rapyd/reconciliation-testing-tools/reconciliation_utils/</Path>
-                  <Path Filename="validators">/Users/gilad/Code/rapyd/reconciliation-testing-tools/</Path>
-                  <Path Filename="..">/Users/gilad/Code/rapyd/reconciliation-testing-tools/validators/</Path>
-                  <Path Filename="validators">/Users/gilad/Code/rapyd/reconciliation-testing-tools/</Path>
-                  <Path Filename="..">/Users/gilad/Code/rapyd/reconciliation-testing-tools/validators/</Path>
-                  <Path Filename="tests">/Users/gilad/Code/rapyd/reconciliation-testing-tools/</Path>
-                  <Path Filename="..">/Users/gilad/Code/rapyd/reconciliation-testing-tools/tests/</Path>
-                  <Path Filename="reconciliation_utils">/Users/gilad/Code/rapyd/reconciliation-testing-tools/</Path>
-                  <Path Filename="..">/Users/gilad/Code/rapyd/reconciliation-testing-tools/reconciliation_utils/</Path>
-                  <Path Filename="reconciliation_utils">/Users/gilad/Code/rapyd/reconciliation-testing-tools/</Path>
-                  <Path Filename="..">/Users/gilad/Code/rapyd/reconciliation-testing-tools/reconciliation_utils/</Path>
-                  <Path Filename="reconciliation_utils">/Users/gilad/Code/rapyd/reconciliation-testing-tools/</Path>
-                  <Path Filename="reconciliation_engine">/Users/gilad/Code/rapyd/</Path>
-                  <Path Filename="merchantDistirubuters">/Users/gilad/Code/rapyd/reconciliation_engine/</Path>
-                  <Path Filename="reconciliation_services">/Users/gilad/Code/rapyd/</Path>
-                  <Path Filename="..">/Users/gilad/Code/rapyd/reconciliation_services/</Path>
-                  <Path Filename="notes.md">/Users/gilad/Code/rapyd/</Path>
-                  <Path Filename="scratches">/Users/gilad/Code/</Path>
-                  <Path Filename="py-multi-processing">/Users/gilad/Code/scratches/</Path>
-                  <Path Filename="playground.py">/Users/gilad/Code/scratches/py-multi-processing/</Path>
-                  <Path Filename="py-multi-processing">/Users/gilad/Code/scratches/</Path>
-                  <Path Filename="scratches">/Users/gilad/Code/</Path>
-                  <Path Filename="py-multi-processing">/Users/gilad/Code/scratches/</Path>
-                  <Path Filename="playground.py">/Users/gilad/Code/scratches/py-multi-processing/</Path>
-                </Paths>
-              </Entry>
-            </History>
-            <ColumnsView>
-              <ColumnsSet>Default</ColumnsSet>
-            </ColumnsView>
-          </FileView>
-        </Tab>
+        <ActiveTab>0</ActiveTab>
         <Tab>
           <FileView Type="columns">
             <Sortings>
@@ -457,11 +457,11 @@
                   <Path Filename="playground.py">/Users/gilad/Code/scratches/py-multi-processing/</Path>
                   <Path Filename="py-multi-processing">/Users/gilad/Code/scratches/</Path>
                   <Path Filename="scratches">/Users/gilad/Code/</Path>
-                  <Path Filename="settings-yosef">/Users/gilad/Downloads/</Path>
-                  <Path Filename="options">/Users/gilad/Downloads/settings-yosef/</Path>
-                  <Path Filename="aws.xml">/Users/gilad/Downloads/settings-yosef/options/</Path>
-                  <Path Filename="options">/Users/gilad/Downloads/settings-yosef/</Path>
-                  <Path Filename=".localized">/Users/gilad/Downloads/</Path>
+                  <Path Filename="py-multi-processing">/Users/gilad/Code/scratches/</Path>
+                  <Path Filename="playground.py">/Users/gilad/Code/scratches/py-multi-processing/</Path>
+                  <Path Filename=".git">/Users/gilad/Code/rapyd/reconciliation_services/</Path>
+                  <Path Filename="reconciliation_services">/Users/gilad/Code/rapyd/</Path>
+                  <Path Filename="scratches">/Users/gilad/Code/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -482,19 +482,6 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="options">/Users/gilad/Library/Preferences/IntelliJIdea2019.3/</Path>
-                  <Path Filename="..">/Users/gilad/Library/Preferences/IntelliJIdea2019.3/options/</Path>
-                  <Path Filename="keymaps">/Users/gilad/Library/Preferences/IntelliJIdea2019.3/</Path>
-                  <Path Filename="PyCharm Pro 2017 Before purchase mac.xml">/Users/gilad/Library/Preferences/IntelliJIdea2019.3/keymaps/</Path>
-                  <Path Filename="known_hosts">/Users/gilad/.ssh/</Path>
-                  <Path Filename="Library">/Users/gilad/</Path>
-                  <Path Filename="Preferences">/Users/gilad/Library/</Path>
-                  <Path Filename="IntelliJIdea2019.3">/Users/gilad/Library/Preferences/</Path>
-                  <Path Filename="port">/Users/gilad/Library/Preferences/IntelliJIdea2019.3/</Path>
-                  <Path Filename="IntelliJIdea2019.3">/Users/gilad/Library/Preferences/</Path>
-                  <Path Filename="settingsRepository">/Users/gilad/Library/Preferences/IntelliJIdea2019.3/</Path>
-                  <Path Filename="..">/Users/gilad/Library/Preferences/IntelliJIdea2019.3/settingsRepository/</Path>
-                  <Path Filename="options">/Users/gilad/Library/Preferences/IntelliJIdea2019.3/</Path>
                   <Path Filename="doublecmd">/Users/gilad/Library/Preferences/</Path>
                   <Path Filename="..">/Users/gilad/Library/Preferences/doublecmd/</Path>
                   <Path Filename="IntelliJIdea2019.3">/Users/gilad/Library/Preferences/</Path>
@@ -531,7 +518,20 @@
                   <Path Filename="options">/Users/gilad/Downloads/settings-yosef/</Path>
                   <Path Filename="OpenDirectory">/Library/Preferences/</Path>
                   <Path Filename="IntelliJIdea2019.3">/Users/gilad/Library/Preferences/</Path>
-                  <Path Filename="port.lock">/Users/gilad/Library/Preferences/IntelliJIdea2019.3/</Path>
+                  <Path Filename="keymaps">/Users/gilad/Library/Preferences/IntelliJIdea2019.3/</Path>
+                  <Path Filename="IntelliJIdea2019.1">/Users/gilad/Library/Preferences/</Path>
+                  <Path Filename="keymaps">/Users/gilad/Library/Preferences/IntelliJIdea2019.1/</Path>
+                  <Path Filename="..">/Users/gilad/Library/Preferences/IntelliJIdea2019.1/keymaps/</Path>
+                  <Path Filename="tasks">/Users/gilad/Library/Preferences/IntelliJIdea2019.1/</Path>
+                  <Path Filename="IntelliJIdea2019.1">/Users/gilad/Library/Preferences/</Path>
+                  <Path Filename="keymaps">/Users/gilad/Library/Preferences/IntelliJIdea2019.1/</Path>
+                  <Path Filename="Mac OS X 10_5_ copy.xml">/Users/gilad/Library/Preferences/IntelliJIdea2019.1/keymaps/</Path>
+                  <Path Filename="keymaps">/Users/gilad/Library/Preferences/IntelliJIdea2019.1/</Path>
+                  <Path Filename="..">/Users/gilad/Library/Preferences/IntelliJIdea2019.1/keymaps/</Path>
+                  <Path Filename="keymaps">/Users/gilad/Library/Preferences/IntelliJIdea2019.1/</Path>
+                  <Path Filename="..">/Users/gilad/Library/Preferences/IntelliJIdea2019.1/keymaps/</Path>
+                  <Path Filename="options">/Users/gilad/Library/Preferences/IntelliJIdea2019.1/</Path>
+                  <Path Filename="usage.statistics.xml">/Users/gilad/Library/Preferences/IntelliJIdea2019.1/options/</Path>
                 </Paths>
               </Entry>
             </History>

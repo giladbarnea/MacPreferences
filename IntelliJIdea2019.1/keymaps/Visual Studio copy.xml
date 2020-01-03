@@ -27,7 +27,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl meta f1" />
   </action>
   <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="shift ctrl w" />
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
   <action id="CollapseAllRegions">
@@ -155,7 +154,7 @@
   </action>
   <action id="ExpressionTypeInfo">
     <mouse-shortcut keystroke="button2" />
-    <keyboard-shortcut first-keystroke="meta t" />
+    <keyboard-shortcut first-keystroke="alt t" />
   </action>
   <action id="ExtractMethod">
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl m" />
@@ -203,6 +202,7 @@
   <action id="MethodUp">
     <keyboard-shortcut first-keystroke="shift meta left" />
   </action>
+  <action id="Move" />
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
@@ -222,7 +222,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl up" />
   </action>
   <action id="NewElement">
-    <keyboard-shortcut first-keystroke="ctrl t" />
+    <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl tab" />
@@ -268,6 +268,9 @@
   </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="ShowErrorDescription">
+    <keyboard-shortcut first-keystroke="ctrl f1" />
   </action>
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="f7" />

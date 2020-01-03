@@ -314,11 +314,6 @@
         <Control>Files Panel</Control>
       </Hotkey>
       <Hotkey>
-        <Shortcut>Ctrl+Num-</Shortcut>
-        <Command>cm_MarkUnmarkAll</Command>
-        <Control>Files Panel</Control>
-      </Hotkey>
-      <Hotkey>
         <Shortcut>Num-</Shortcut>
         <Command>cm_MarkMinus</Command>
         <Control>Files Panel</Control>
@@ -379,7 +374,7 @@
         <Control>Files Panel</Control>
       </Hotkey>
       <Hotkey>
-        <Shortcut>WinKey+W</Shortcut>
+        <Shortcut>Shift+WinKey+W</Shortcut>
         <Command>cm_CloseTab</Command>
         <Control>Files Panel</Control>
       </Hotkey>
@@ -413,6 +408,11 @@
         <Command>cm_CopyToClipboard</Command>
         <Control>Files Panel</Control>
         <Control>Command Line</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Esc</Shortcut>
+        <Command>cm_MarkUnmarkAll</Command>
+        <Control>Files Panel</Control>
       </Hotkey>
     </Form>
     <Form Name="Viewer">

@@ -66,5 +66,101 @@
       </roots>
       <additional />
     </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (reconciliation-testing-tools)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="$USER_HOME$/Code/rapyd/reconciliation-testing-tools/env/bin/python3.7" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Code/rapyd/reconciliation-testing-tools/env/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/Code/rapyd/reconciliation-testing-tools/env/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file:///Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/Code/rapyd/reconciliation-testing-tools/env/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Code/rapyd/reconciliation-testing-tools/env/src/reconciliation-services" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.1/python_stubs/370844296" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (/usr/local/bin/python3.7)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.6" />
+      <homePath value="/usr/local/bin/python3.7" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/local/Cellar/python@3.7/3.7.6/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file:///usr/local/Cellar/python@3.7/3.7.6/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file:///usr/local/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.1/python_stubs/-1199943126" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (env)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.6" />
+      <homePath value="$USER_HOME$/Code/mytool/env/bin/python3.7" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Code/mytool/env/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/Code/mytool/env/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file:///usr/local/Cellar/python@3.7/3.7.6/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/Code/mytool/env/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.1/python_stubs/-1291610411" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
   </component>
 </application>

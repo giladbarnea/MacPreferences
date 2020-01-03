@@ -2,25 +2,37 @@
 <doublecmd>
   <History>
     <Navigation>
+      <Item>/Users/gilad/Code/mytool/</Item>
+      <Item>/Users/gilad/Code/mytool/mytool/</Item>
+      <Item>/Users/gilad/Code/</Item>
+      <Item>/Users/gilad/Code/rapyd/</Item>
+      <Item>/Users/gilad/Code/rapyd/reconciliation_engine/</Item>
+      <Item>/Users/gilad/Code/rapyd/reconciliation_engine/src/</Item>
+      <Item>/Users/gilad/Code/rapyd/reconciliation_engine/src/reconciliation-services/</Item>
+      <Item>/Users/gilad/Code/rapyd/reconciliation_engine/src/reconciliation_services/</Item>
+      <Item>/Users/gilad/Code/rapyd/reconciliation_services/</Item>
+      <Item>/Users/gilad/Library/Preferences/IntelliJIdea2019.1/options/</Item>
+      <Item>/Users/gilad/Library/Preferences/IntelliJIdea2019.1/</Item>
+      <Item>/Users/gilad/</Item>
+      <Item>/Users/gilad/Downloads/</Item>
+      <Item>/Users/gilad/Library/Preferences/IntelliJIdea2019.1/keymaps/</Item>
+      <Item>/Users/gilad/Library/Preferences/</Item>
+      <Item>/Users/gilad/Library/Application Support/JetBrains/Toolbox/apps/IDEA-U/ch-0/</Item>
+      <Item>/Users/gilad/Library/Application Support/JetBrains/Toolbox/apps/IDEA-U/ch-0/191.8026.42/</Item>
       <Item>/Users/gilad/Code/scratches/py-multi-processing/</Item>
       <Item>/Users/gilad/Code/scratches/</Item>
-      <Item>/Users/gilad/Downloads/</Item>
       <Item>/Users/gilad/Library/Preferences/IntelliJIdea2019.3/</Item>
-      <Item>/Users/gilad/Library/Preferences/</Item>
       <Item>/Library/Preferences/</Item>
       <Item>/Users/gilad/Downloads/settings-yosef/</Item>
       <Item>/Users/gilad/Downloads/settings-yosef/options/</Item>
-      <Item>/Users/gilad/Code/</Item>
       <Item>/usr/bin/</Item>
       <Item>/</Item>
       <Item>/Users/</Item>
-      <Item>/Users/gilad/</Item>
       <Item>/usr/local/bin/</Item>
       <Item>/usr/local/</Item>
       <Item>/usr/local/Cellar/</Item>
       <Item>/usr/local/Cellar/python/</Item>
       <Item>/usr/local/Cellar/python/3.7.6_1/</Item>
-      <Item>/Users/gilad/Code/rapyd/</Item>
       <Item>/Library/Frameworks/</Item>
       <Item>/Library/Frameworks/Python.framework/</Item>
       <Item>/Library/Frameworks/Python.framework/Versions/</Item>
@@ -31,10 +43,7 @@
       <Item>/Library/Frameworks/Python.framework/Versions/3.7/include/python3.7m/</Item>
       <Item>/Library/Frameworks/Python.framework/Versions/3.7/Headers/</Item>
       <Item>/Library/Frameworks/Python.framework/Versions/3.7/bin/</Item>
-      <Item>/Users/gilad/Code/rapyd/reconciliation_engine/</Item>
       <Item>/Users/gilad/Code/rapyd/reconciliation_engine/reconciliation_engine.egg-info/</Item>
-      <Item>/Users/gilad/Code/rapyd/reconciliation_engine/src/</Item>
-      <Item>/Users/gilad/Code/rapyd/reconciliation_engine/src/reconciliation-services/</Item>
       <Item>/Users/gilad/Code/rapyd/reconciliation_engine/src/reconciliation-services/reconS3Services/</Item>
       <Item>/Library/</Item>
       <Item>/Library/Python/</Item>
@@ -43,16 +52,6 @@
       <Item>/Users/gilad/Code/bashscripts/</Item>
       <Item>/Users/gilad/.config/</Item>
       <Item>/Users/gilad/.config/karabiner/</Item>
-      <Item>/Users/gilad/.config/karabiner/assets/</Item>
-      <Item>/Users/gilad/.config/karabiner/assets/complex_modifications/</Item>
-      <Item>/Users/gilad/Library/Services/</Item>
-      <Item>/Users/gilad/Library/Services/test.workflow/</Item>
-      <Item>/Users/gilad/Library/Services/test.workflow/Contents/</Item>
-      <Item>/Users/gilad/Code/rapyd/reconciliation_services/</Item>
-      <Item>/Users/gilad/Code/rapyd/reconciliation-testing-tools/</Item>
-      <Item>/Users/gilad/Code/rapyd/reconciliation-testing-tools/reconciliation_utils/</Item>
-      <Item>/Users/gilad/Code/rapyd/reconciliation-testing-tools/tests/</Item>
-      <Item>/Users/gilad/Code/rapyd/reconciliation-testing-tools/validators/</Item>
     </Navigation>
     <CommandLine>
       <Item>code .</Item>
