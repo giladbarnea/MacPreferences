@@ -103,6 +103,7 @@
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="ctrl meta equals" />
   </action>
+  <action id="EditorJoinLines" />
   <action id="EditorMatchBrace">
     <keyboard-shortcut first-keystroke="ctrl meta w" />
   </action>
@@ -164,6 +165,9 @@
   </action>
   <action id="FindUsagesInFile">
     <keyboard-shortcut first-keystroke="shift ctrl f7" />
+  </action>
+  <action id="FindWordAtCaret">
+    <keyboard-shortcut first-keystroke="meta j" />
   </action>
   <action id="ForceStepInto">
     <keyboard-shortcut first-keystroke="meta f11" />
